@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Le forme della matematica
-subtitle: Un viaggio nella collezione di modelli matematici dell'Università di Torino
+subtitle: Viaggio nella collezione di modelli matematici dell'Università di Torino
 gh-repo: PlasmaStark
 gh-badge: [follow]
 tags: [presentazione, superfici, modelli 3D]
 comments: true
 ---
 
-Questa è una presentazione per il corso Storia della Matematica e della Fisica, tenuto dal professor [Claudio Fontanari](https://claudio.fontanari.maths.unitn.it/).
+Questo lavoro deriva da una presentazione che ho dovuto tenere per il corso Storia della Matematica e della Fisica, gestito dal professor [Claudio Fontanari](https://claudio.fontanari.maths.unitn.it/).
 
 ## Contenuto
- Un breve viaggio nella collezione di modelli matematici della Biblioteca Speciale di Matematica "Giuseppe Peano" dell'Università di Torino, 
- in parallelo all'articolo di Giorgio Ferrarese e Franco Palladino. 
+Si tratta di un breve ma affascinante viaggio nella collezione di modelli matematici della Biblioteca Speciale di Matematica "Giuseppe Peano" dell'Università di Torino, in parallelo all'articolo di Giorgio Ferrarese e Franco Palladino. Ho provato ad estrarre alcuni concetti non necessariamente riservati agli "addetti ai lavori" ed a presentarli, in una esposizione rivolta sia ai matematici che ai più estranei. Necessariamente in alcuni momenti si parlerà in termini strettamente matematici, ma prometto che saranno pochi! D'altronde, nel corso della presentazione studieremo la necessità del formalismo matematico... serve davvero?
  
- Dopo una rapida introduzione storica, ci concentreremo su alcuni modelli e cosa li rende tanto interessanti - 
+ Dopo un'introduzione storica, ci concentreremo su alcuni modelli e cosa li rende tanto interessanti - 
  sia dal punto di vista matematico che non. Molte immagini sono cortesia del suddetto articolo o del sito della collezione; ho disegnato i modelli 3D sfruttando il 
  software gratuito [Surfer](https://imaginary.org/program/surfer). 
 
