@@ -4,20 +4,25 @@ title: Le forme della matematica
 subtitle: Un viaggio nella collezione di modelli matematici dell'Università di Torino
 gh-repo: PlasmaStark
 gh-badge: [follow]
-tags: [conferenza]
+tags: [presentazione]
 comments: true
 ---
 
 Questa è una presentazione per il corso Storia della Matematica e della Fisica, tenuto dal professor [Claudio Fontanari](https://claudio.fontanari.maths.unitn.it/).
 
- ## Contenuto
+## Contenuto
  Un breve viaggio nella collezione di modelli matematici della Biblioteca Speciale di Matematica "Giuseppe Peano" dell'Università di Torino, 
  in parallelo all'articolo di Giorgio Ferrarese e Franco Palladino. 
  
  Dopo una rapida introduzione storica, ci concentreremo su alcuni modelli e cosa li rende tanto interessanti - 
  sia dal punto di vista matematico che non. Molte immagini sono cortesia del suddetto articolo o del sito della collezione; ho disegnato i modelli 3D sfruttando il 
  software gratuito [Surfer](https://imaginary.org/program/surfer). 
+
+## Presentazione
  
+[Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
+
+Slides: [non ancora disponibili]
 
  La *superficie diagonale di Clebsch*, una cubica; modello in 3D realizzati via Surfer.
 
@@ -29,11 +34,8 @@ Questa è una presentazione per il corso Storia della Matematica e della Fisica,
  ![ClebschModel](https://user-images.githubusercontent.com/64229723/115791828-6d27a200-a3c9-11eb-9f85-4c09dfdb7c97.PNG){: .mx-auto.d-block :}
 
  
- ## La presentazione
  
- [Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
-
  
- ## Crediti
+## Crediti
 
  Tutti i crediti dovuti si trovano in bibliografia, le immagini sono utilizzate a scopo didattico ed illustrativo, non di lucro.
