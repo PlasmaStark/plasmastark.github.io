@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le forme della matematica
-subtitle: Viaggio nella collezione di modelli matematici dell'Università di Torino
+subtitle: Viaggio nella collezione di modelli matematici della Biblioteca Speciale di Matematica dell'Università di Torino
 gh-repo: PlasmaStark
 gh-badge: [follow]
 tags: [presentazione, superfici, modelli 3D]
