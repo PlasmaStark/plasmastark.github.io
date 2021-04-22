@@ -24,7 +24,10 @@ Questa è una presentazione per il corso Storia della Matematica e della Fisica,
 
 Slides: [non ancora disponibili]
 
- La *superficie diagonale di Clebsch*, una cubica; modello in 3D realizzati via Surfer.
+
+## Un assaggio...
+
+Questa è la *superficie diagonale di Clebsch*, una cubica; modello in 3D realizzati via Surfer. La sua forma simmetrica ed elegante, unitamente alla rilevanza storica, la rende forse il modello più intrigante della collezione.
 
  ![Clebsch4](https://user-images.githubusercontent.com/64229723/115791735-42d5e480-a3c9-11eb-8ddb-5407ec2afc87.png)
 
