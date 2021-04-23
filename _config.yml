@@ -97,22 +97,22 @@ keywords: "math, leonardo errati, plasma stark, plasmastark, starkmath"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 # navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-text-col: "#f0f6c"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#f0f6c"
+footer-link-col: "#3582c4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 navbar-img: "/assets/img/bakcground.png"
-#footer-img: "/assets/img/bgimage.png"
-# page-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bakcground.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
