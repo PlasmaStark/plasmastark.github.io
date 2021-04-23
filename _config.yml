@@ -17,7 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Contenuti:
     - Is p prime?: "/_posts/2021-04-05-Discorso-sui-primi"
-    - Le forme della matematica: "/_posts/2021-04-23-Le-forme-della-matematica"
+    - Le forme della matematica: "https://plasmastark.github.io/2021-04-23-Le-forme-della-matematica/"
     # - Python per la crittografia: " "
  # Author's home: "https://deanattali.com"
 
