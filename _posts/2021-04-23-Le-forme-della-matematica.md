@@ -20,9 +20,10 @@ Si tratta di un breve ma affascinante viaggio nella collezione di modelli matema
 ## Presentazione
  
 
-[Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
+PDF: [Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
 
-Slides: [non ancora disponibili]
+Slides: [Discorso_sui_primi_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6367628/Discorso_sui_primi_slides.pdf)
+
 
 
 ## Un assaggio...
