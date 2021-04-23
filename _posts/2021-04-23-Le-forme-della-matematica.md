@@ -27,11 +27,11 @@ Slides: [non ancora disponibili]
 
 ## Un assaggio...
 
-Questa è la *superficie diagonale di Clebsch*, una cubica; modello in 3D realizzati via Surfer. La sua forma simmetrica ed elegante, unitamente alla rilevanza storica, la rende forse il modello più intrigante della collezione.
+Questa è la *superficie diagonale di Clebsch*, una cubica; il modello in 3D è stato realizzato tramite Surfer. La sua forma simmetrica ed elegante, unitamente alla rilevanza storica, la rende forse il modello più intrigante della collezione.
 
 <img src="https://user-images.githubusercontent.com/64229723/115791735-42d5e480-a3c9-11eb-8ddb-5407ec2afc87.png" width="400" class="center">
 
- Il modello in gesso della *superficie diagonale di Clebsch*, dalla collezione dell'Università di Torino. Possiamo subito notare la limitatezza del mezzo 
+ Segue il vero modello in gesso della *superficie diagonale di Clebsch*, dalla collezione dell'Università di Torino. Possiamo subito notare la limitatezza del mezzo 
  concreto rispetto al mezzo digitale, ma poter vedere e toccare un modello reale è un'esperienza unica... per ora!
 
 ![ClebschModel](https://user-images.githubusercontent.com/64229723/115791828-6d27a200-a3c9-11eb-9f85-4c09dfdb7c97.PNG){: .mx-auto.d-block :}
