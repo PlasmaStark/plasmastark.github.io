@@ -15,9 +15,9 @@ author: Leonardo Errati
 
 navbar-links:
   About Me: "aboutme"
-#  Resources:
- #   - Beautiful Jekyll: "https://beautifuljekyll.com"
- #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Contenuti:
+    - Is p prime?: "/_posts/https://github.com/PlasmaStark/plasmastark.github.io/blob/master/_posts/2021-04-05-Discorso-sui-primi.md"
+    - Le forme della matematica: "/_posts/https://github.com/PlasmaStark/plasmastark.github.io/blob/master/_posts/2021-04-23-Le-forme-della-matematica.md"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -112,7 +112,7 @@ footer-link-col: "#404040"
 
 navbar-img: "/assets/img/bakcground.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bgimage.png"
+# page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
