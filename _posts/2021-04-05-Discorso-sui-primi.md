@@ -18,7 +18,7 @@ Usando alcuni strumenti di logica elementare, non sembrerebbe una missione così
 Cosa sono i numeri primi? Ma soprattutto, perché ci interessa sapere se un numero è primo? Si tratta solo di un gioco tra matematici o c'è di più sotto?
 
 Come ho preannunciato, proverò a rispondere a queste domande nel modo più semplice possibile - appetibile anche a chi non si intenda
-molto di matematica. Il risultato è un documento dai risvolti deliranti ed emozionanti!
+molto di matematica. Il risultato è un breve discorso dai risvolti deliranti ed emozionanti!
 
 Essendo un documento di prova preparato per l'università, mi è stato richiesto di creare anche delle slides.
 
