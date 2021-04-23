@@ -22,7 +22,11 @@ molto di matematica. Il risultato è un breve discorso dai risvolti deliranti ed
 
 Essendo un documento di prova preparato per l'università, mi è stato richiesto di creare anche delle slides.
 
+### PDF:
+
 [Discorso_sui_primi.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6364525/Discorso.sui.primi.pdf)
+
+### SLIDES:
 
 [Discorso_sui_primi_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6364534/Discorso_sui_primi_slides.pdf)
 
