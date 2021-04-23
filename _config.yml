@@ -105,14 +105,14 @@ link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#f0f6fc"
-footer-link-col: "#3582c4"
+footer-link-col: "#4f94d4"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 navbar-img: "/assets/img/bakcground.png"
 footer-img: "/assets/img/bakcground.png"
-page-img: "/assets/img/bgimage.png"
+# page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
