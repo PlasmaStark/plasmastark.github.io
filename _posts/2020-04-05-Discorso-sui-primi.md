@@ -20,4 +20,8 @@ Cosa sono i numeri primi? Ma soprattutto, perché ci interessa sapere se un nume
 Come ho preannunciato, proverò a rispondere a queste domande nel modo più semplice possibile - appetibile anche a chi non si intenda
 molto di matematica. Il risultato è un documento dai risvolti deliranti ed emozionanti!
 
+Essendo un documento di prova preparato per l'università, mi è stato richiesto di creare anche delle slides.
 
+[Discorso sui primi.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6364525/Discorso.sui.primi.pdf)
+
+[Discorso_sui_primi_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6364534/Discorso_sui_primi_slides.pdf)
