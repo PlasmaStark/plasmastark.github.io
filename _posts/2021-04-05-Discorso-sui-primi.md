@@ -28,3 +28,7 @@ Essendo un documento di prova preparato per l'università, mi è stato richiesto
 
 ![1 3tKUTKDKh84hmiJlLHQoWA](https://user-images.githubusercontent.com/64229723/115857445-fe306480-a42d-11eb-93fa-e45ca597a4c8.jpeg){: .mx-auto.d-block :}
 *(immagine dall'[articolo del prof. Bill Buchanan](https://medium.com/asecuritysite-when-bob-met-alice/so-how-many-bits-does-the-prime-number-have-e5dbbdf568ea), Medium)*
+
+## Crediti
+
+Nessuno, se non il mio sorprendentemente ampio tempo libero.
