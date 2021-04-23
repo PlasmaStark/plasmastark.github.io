@@ -22,7 +22,8 @@ Si tratta di un breve ma affascinante viaggio nella collezione di modelli matema
 
 PDF: [Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
 
-Slides: [Discorso_sui_primi_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6367628/Discorso_sui_primi_slides.pdf)
+Slides: [Le_forme_della_matematica_slides_.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6368107/Le_forme_della_matematica__slides_.pdf)
+
 
 
 
