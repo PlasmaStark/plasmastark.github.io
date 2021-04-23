@@ -65,7 +65,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: Straordinarie stramberie e fantastiche follie.
+# rss-description: Straordinarie stramberie e fantastiche follie.
 
 # --- General options --- #
 
@@ -90,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "math, leonardo errati, plasma stark, plasmastark, starkmath"
 
 # --- Colours / background image --- #
 
@@ -110,7 +110,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bacground.png"
+navbar-img: "/assets/img/background.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
