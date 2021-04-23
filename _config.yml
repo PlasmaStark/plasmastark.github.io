@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Stramberie matematiche di Leonardo
+title: Leonardo Errati
 
 # Your name to show in the footer
 author: Leonardo Errati
@@ -18,6 +18,7 @@ navbar-links:
   Contenuti:
     - Is p prime?: "/_posts/https://github.com/PlasmaStark/plasmastark.github.io/blob/master/_posts/2021-04-05-Discorso-sui-primi.md"
     - Le forme della matematica: "/_posts/https://github.com/PlasmaStark/plasmastark.github.io/blob/master/_posts/2021-04-23-Le-forme-della-matematica.md"
+    # - Python per la crittografia: " "
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
