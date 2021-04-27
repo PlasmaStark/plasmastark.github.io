@@ -15,6 +15,7 @@ author: Leonardo Errati
 
 navbar-links:
   About Me: "aboutme"
+  Progetto Prometeo: "prometeo"
   Contenuti:
     - Is p prime?: "https://plasmastark.github.io/2021-04-05-Is-p-prime/"
     - Le forme della matematica: "https://plasmastark.github.io/2021-04-23-Le-forme-della-matematica/"
