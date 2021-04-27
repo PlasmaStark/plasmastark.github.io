@@ -9,4 +9,4 @@ Ma chi può dirlo...
 
 **Visita l'organizzazione: [Progetto Prometeo](https://github.com/Progetto-Prometeo).**
 
-![Cattura](https://user-images.githubusercontent.com/64229723/116280774-54ccd400-a789-11eb-833c-70dadb3dea18.PNG)
+<img src="https://user-images.githubusercontent.com/64229723/116280774-54ccd400-a789-11eb-833c-70dadb3dea18.PNG" width="400" class="center">
