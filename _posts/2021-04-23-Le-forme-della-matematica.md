@@ -43,4 +43,4 @@ Questa è la *superficie diagonale di Clebsch*, una cubica; il modello in 3D è 
  
 ## Crediti
 
- Tutti i crediti dovuti si trovano in bibliografia, le immagini sono utilizzate a scopo didattico ed illustrativo, non di lucro.
+ Tutti i crediti dovuti si trovano in bibliografia, le immagini sono utilizzate a scopo didattico ed illustrativo.
