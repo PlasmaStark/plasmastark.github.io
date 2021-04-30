@@ -10,8 +10,9 @@ comments: true
 
 Questo lavoro deriva da una presentazione che ho dovuto tenere per il corso Storia della Matematica e della Fisica, gestito dal professor [Claudio Fontanari](https://claudio.fontanari.maths.unitn.it/).
 
+![locandina](https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG){: .mx-auto.d-block :}
 
-<img src="https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG" hspace=10 vspace=10 border=0 class = "center" width="400">
+
 ## Contenuto
 
  
@@ -24,7 +25,8 @@ Dopo un'introduzione storica, ci concentreremo su alcuni modelli e cosa li rende
  
 Non avendo ancora svolto la presentazione, il materiale non è nella sua versione definitiva. Ad esempio le slides verranno tagliate per stare nei tempi. 
 
-PDF: [Le forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6361564/Le_forme_della_matematica.pdf)
+PDF: [Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6408456/Le_forme_della_matematica.1.pdf)
+
 
 Slides: [FdM_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6385439/Le_forme_della_matematica__slides_.2.pdf)
 
