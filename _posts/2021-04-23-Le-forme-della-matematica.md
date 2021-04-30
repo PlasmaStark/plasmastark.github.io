@@ -9,7 +9,7 @@ comments: true
 ---
 
 Questo lavoro deriva da una presentazione che ho dovuto tenere per il corso Storia della Matematica e della Fisica, gestito dal professor [Claudio Fontanari](https://claudio.fontanari.maths.unitn.it/).
-<img src="https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG" hspace=10 vspace=10 border=0 class = "center" width="450">
+<img src="https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG" hspace=10 vspace=10 border=0 class = "center" width="400">
 ## Contenuto
 
  
