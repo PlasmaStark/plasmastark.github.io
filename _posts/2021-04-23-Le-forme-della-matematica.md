@@ -15,8 +15,9 @@ Questo lavoro deriva da una presentazione che ho dovuto tenere per il corso Stor
  
 Si tratta di un breve ma affascinante viaggio nella collezione di modelli matematici della Biblioteca Speciale di Matematica "Giuseppe Peano" dell'Università di Torino, in parallelo all'articolo di Giorgio Ferrarese e Franco Palladino. Ho provato ad estrarre alcuni concetti non necessariamente riservati agli "addetti ai lavori" ed a presentarli, in una esposizione rivolta sia ai matematici che ai più estranei. Necessariamente in alcuni momenti si parlerà in termini strettamente matematici, ma prometto che saranno pochi! D'altronde, nel corso della presentazione studieremo la necessità del formalismo matematico... serve davvero?
  
-<b><img src="https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG" hspace=10 vspace=10 border=0 align=left><br clear=all>
-Dopo un'introduzione storica, ci concentreremo su alcuni modelli e cosa li rende tanto interessanti - sia dal punto di vista matematico che non. Molte immagini sono cortesia del bell'articolo di Ferrarese e Palladino, o del sito della collezione; ho disegnato i modelli 3D sfruttando il software gratuito [Surfer](https://imaginary.org/program/surfer). </b>
+<img src="https://user-images.githubusercontent.com/64229723/116762126-c1f69880-aa19-11eb-99ff-e5bf17ae00a8.PNG" hspace=10 vspace=10 border=0 class = "center" width="450">
+Dopo un'introduzione storica, ci concentreremo su alcuni modelli e cosa li rende tanto interessanti - sia dal punto di vista matematico che non. Molte immagini sono cortesia del bell'articolo di Ferrarese e Palladino, o del sito della collezione; ho disegnato i modelli 3D sfruttando il software gratuito [Surfer](https://imaginary.org/program/surfer).
+
 
 ## Presentazione
  
