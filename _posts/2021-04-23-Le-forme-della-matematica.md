@@ -28,7 +28,7 @@ Non avendo ancora svolto la presentazione, il materiale non è nella sua version
 PDF: [Le_forme_della_matematica.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6408456/Le_forme_della_matematica.1.pdf)
 
 
-Slides: [FdM_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6385439/Le_forme_della_matematica__slides_.2.pdf)
+Slides: [FdM_slides.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/6448473/Le_forme_della_matematica__slides.pdf)
 
 
 
