@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadratic Sieve
-subtitle: come fattorizzare numeri composti... probabilmente?
+subtitle: come fattorizzare numeri composti! ... probabilmente?
 gh-repo: PlasmaStark
 gh-badge: [follow]
 tags: [specialistico, algebra computazionale]
