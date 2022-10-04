@@ -37,7 +37,7 @@ Il resto, come si suol dire, è storia. Una storia raccontata in parte nel [web 
 Sarebbe bello dire altro, ma per ora devo studiare Algebraic Cryptography quindi taglierò corto. Dopo mesi di lavoro da parte del laboratorio PopMat, del FabLab UniTN, di studenti dell'alternanza scuola-lavoro e (non in primis) mio, Millennium è stato realizzato insieme ad un'altra mezza manciata di giochi presentati al professor Andreatta. Come potete vedere dalle immagini in allegato alla pagina, abbiamo assistito a straordinarie presentazioni da parte di esperti nella comunicazione scientifica e creazione di giochi ed enigmi.
 
 <p>
-    <img src="[path_to_image]([https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg](https://user-images.githubusercontent.com/64229723/193774581-7b2890f7-2749-4bca-88d6-e0d3a4eed5cf.jpg))" alt>
+    <img src="https://user-images.githubusercontent.com/64229723/193774581-7b2890f7-2749-4bca-88d6-e0d3a4eed5cf.jpg))](https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg" alt>
     <em>incontro con Dario De Toffoli</em>
 </p>
 
@@ -51,7 +51,7 @@ Vi allego il [regolamento finale del gioco](https://docs.google.com/document/d/1
 Dopo quasi un anno di lavoro, il progetto è terminato con una presentazione pubblica di diverse ore. Inutile dire che senza il contributo di tutti non saremmo mai arrivati qui, ed è stato un traguardo straordinario.
 
 <p>
-    <img src="[path_to_image](https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg)" alt>
+    <img src="https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg" alt>
     <em>locandina della presentazione ufficiale, ove abbiamo avuto l'onore di pranzare e conversare con personalità del calibro di Giorgio Bolondi e Giorgio Dendi</em>
 </p>
 
