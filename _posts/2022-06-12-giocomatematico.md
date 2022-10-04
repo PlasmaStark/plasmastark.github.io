@@ -8,11 +8,11 @@ tags: [divulgativo, presentazione, giochi]
 comments: true
 ---
 
-<figure>
-  <img src="https://user-images.githubusercontent.com/64229723/193784738-1b0bb351-5412-4ffc-a669-a17523aa6ed9.jpg" alt="main" class="center" width="600"/>
-  <figcaption><center><em>Millennium (esagono gargantuesco al centro) insieme agli altri giochi matematici sviluppati</em></center></figcaption>
-</figure>![giochi_matematici]()
 
+<figure>
+  <img src="https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg" alt="poster2" class="center" width="400"/>
+  <figcaption><center><em>pomeriggio della presentazione ufficiale</em></center></figcaption>
+</figure>
 
 Questo è il racconto di come io un certo giorno abbia dormito particolarmente bene.
 
@@ -54,6 +54,7 @@ Vi allego il [regolamento finale del gioco](https://docs.google.com/document/d/1
 ## La presentazione ufficiale
 
 
+
 Dopo quasi un anno di lavoro, il progetto è terminato con una presentazione pubblica di diverse ore. Inutile dire che senza il contributo di tutti non saremmo mai arrivati qui, ed è stato un traguardo straordinario.
 
 <figure>
@@ -61,7 +62,12 @@ Dopo quasi un anno di lavoro, il progetto è terminato con una presentazione pub
   <figcaption><center><em>locandina della presentazione ufficiale, ove abbiamo avuto l'onore di pranzare e conversare con personalità del calibro di Giorgio Bolondi e Giorgio Dendi</em></center></figcaption>
 </figure>
 
-Non voglio lasciare che il gioco mio figlioccio prenda tutta la luce dei riflettori: durante il progetto sono stati sviluppati molti altri giochi interessanti. *Galuedo*, un Cluedo dalla personalità matematica basato sulla storia di Galois. *Numeropoly*, il cui nome dice tutto ma non abbastanza. *CalcolaChi*, Indovina Chi con oggetti e personaggi matematici. *Be4After*, gioco originale simile alla Dama con una affascinante teoria matematica alle spalle.*I Numeri Principi*, gioco originale, una sorta di Scarabeo numerico. Parlare perbene di tutti questi giochi richiederebbe troppo tempo, ma meritano di essere anche solo nominati; non entrerò nei dettagli di alcuni e basta per non fare ingiustizia agli altri.
+Non voglio lasciare che il gioco mio figlioccio prenda tutta la luce dei riflettori: durante il progetto sono stati sviluppati molti altri giochi interessanti. *Galuedo*, un Cluedo dalla personalità matematica basato sulla storia di Galois. *Numeropoly*, il cui nome dice tutto ma non abbastanza. *CalcolaChi*, Indovina Chi con oggetti e personaggi matematici. *Be4After*, gioco originale simile alla Dama con una affascinante teoria matematica alle spalle.*I Numeri Principi*, gioco originale, una sorta di Scarabeo numerico. 
+<figure>
+  <img src="https://user-images.githubusercontent.com/64229723/193784738-1b0bb351-5412-4ffc-a669-a17523aa6ed9.jpg" alt="main" class="center" width="600"/>
+  <figcaption><center><em>Millennium (esagono gargantuesco al centro) insieme ad alcuni dei giochi matematici sviluppati</em></center></figcaption>
+</figure>
+Parlare perbene di tutti questi giochi richiederebbe troppo tempo, ma meritano di essere anche solo nominati; non entrerò nei dettagli di alcuni e basta per non fare ingiustizia agli altri.
 
 Concludo senza una conclusione: pare, infatti, che la storia di questo progetto non sia ancora finita. D'altronde, la Maker Faire è dietro l'angolo.
 
