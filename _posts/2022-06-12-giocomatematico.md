@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Millennium & Progetto Gioco Matematico
-subtitle: comunicazione tramite giochi da tavolo, università, alternanza scuola-lavoro
+subtitle: comunicazione scientifica tramite giochi da tavolo
 gh-repo: PlasmaStark
 gh-badge: [follow]
 tags: [divulgativo, presentazione, giochi]
