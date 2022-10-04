@@ -11,7 +11,7 @@ La mia idea è che si possa seguire un percorso comune con altri, non necessaria
 
 Ogni mese una certa frazione dei membri verrà invitata a suggerire dei libri da leggere. Non è necessario che ogni partecipante legga uno di questi, o che legga affatto. Si tratta di un invito e nulla di più.
 
-post scriptum: *affine reading* è un gioco di parole tra gli anglicismi *fine reading* ed *affine*, termine matematico
+(post scriptum: *affine reading* è un gioco di parole tra gli anglicismi *fine reading* ed *affine*, termine matematico)
 
 # Informazioni ed incontri
 
