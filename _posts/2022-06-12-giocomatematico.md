@@ -74,7 +74,7 @@ Concludo senza una conclusione: pare, infatti, che la storia di questo progetto 
 L'unica cosa certa è che devo assolutamente ricordare cosa avessi mangiato quella sera.
 
 
-## Fatti curiosi sulla scrittura di questo testo
+## Fatti mistici e curiosi
 
 Ho avuto molti problemi a caricare i file. Apparentemente a GitHub non piaceva il fatto che avessi una estensione browser per bloccare i trackers. Se siete arrivati fino qui vi invito a girovagare per il [sito di Dario De Toffoli](https://www.studiogiochi.com/2022/02/dario-de-toffoli-per-luniversita-di-trento/) e del [PopMat laboratory dell'Università di Trento](https://www.maths.unitn.it/260/laboratorio-di-comunicazione-storia-e-filosofia-della-matematica).
 
