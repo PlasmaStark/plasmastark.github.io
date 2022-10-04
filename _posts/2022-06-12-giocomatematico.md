@@ -62,7 +62,7 @@ Dopo quasi un anno di lavoro, il progetto è terminato con una presentazione pub
   <figcaption><center><em>locandina della presentazione ufficiale, ove abbiamo avuto l'onore di pranzare e conversare con personalità del calibro di Giorgio Bolondi e Giorgio Dendi</em></center></figcaption>
 </figure>
 
-Non voglio lasciare che il gioco mio figlioccio prenda tutta la luce dei riflettori: durante il progetto sono stati sviluppati molti altri giochi interessanti. *Galuedo*, un Cluedo dalla personalità matematica basato sulla storia di Galois. *Numeropoly*, il cui nome dice tutto ma non abbastanza. *CalcolaChi*, Indovina Chi con oggetti e personaggi matematici. *Be4After*, gioco originale simile alla Dama con una affascinante teoria matematica alle spalle.*I Numeri Principi*, gioco originale, una sorta di Scarabeo numerico. 
+Non voglio lasciare che il gioco mio figlioccio prenda tutta la luce dei riflettori: durante il progetto sono stati sviluppati molti altri giochi interessanti. *Galuedo*, un Cluedo dalla personalità matematica basato sulla storia di Galois. *Numeropoly*, il cui nome dice tutto ma non abbastanza. *CalcolaChi*, Indovina Chi con oggetti e personaggi matematici. *Be4After*, gioco originale simile alla Dama con una affascinante teoria matematica alle spalle. *I Numeri Principi*, gioco originale di uno studente delle superiori, una sorta di Scarabeo numerico. 
 <figure>
   <img src="https://user-images.githubusercontent.com/64229723/193784738-1b0bb351-5412-4ffc-a669-a17523aa6ed9.jpg" alt="main" class="center" width="600"/>
   <figcaption><center><em>Millennium (esagono gargantuesco al centro) insieme ad alcuni dei giochi matematici sviluppati</em></center></figcaption>
