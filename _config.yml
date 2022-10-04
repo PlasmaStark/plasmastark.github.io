@@ -76,10 +76,10 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
-  vk: false
+  vk: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -95,7 +95,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "math, leonardo errati, plasma stark, plasmastark, starkmath"
+keywords: "math, leonardo errati, plasma stark, plasmastark, starkmath, matematica, comunicazione"
 
 # --- Colours / background image --- #
 
