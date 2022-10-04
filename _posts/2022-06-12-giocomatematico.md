@@ -21,7 +21,7 @@ Dopotutto si tratta di una cosa misteriosa, perché matematica non è solo inseg
 
 L'idea del gioco era apparentemente semplice: un gioco di carte in cui i giocatori avrebbero dovuto costruire una strada fatta di "teoremi" e "definizioni" (solo di nome, senza entrare nello specifico!) per arrivare a raggiungere un Problema del Millennio. 
 
-Ovviamente ambiziosa e da raffinare, molto, ma poteva funzionare. 
+Potete leggere qui il file di presentazione dell'idea iniziale, completo di regolamento: [millennium_originale.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/9704489/millennium_originale.pdf). Ovviamente ambiziosa e da raffinare, molto, ma poteva funzionare. 
 
 
 Nel corso del lockdown era difficile persino testare il gioco su alcune cavie per raccogliere dati. Il risultato finale è stato interessante, ma ancora molto migliorabile.
