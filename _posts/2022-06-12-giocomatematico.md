@@ -8,9 +8,8 @@ tags: [divulgativo, presentazione, giochi]
 comments: true
 ---
 
-
 <figure>
-  <img src="https://user-images.githubusercontent.com/64229723/193773868-92a1957e-e160-4af4-b438-5c2b01cd03fd.jpg" alt="poster2" class="center" width="400"/>
+  <img src="https://user-images.githubusercontent.com/64229723/193793878-2aea1fb9-cc82-40c9-81a0-1f7a0f91486b.jpg" alt="poster2" class="center" width="400"/>
   <figcaption><center><em>pomeriggio della presentazione ufficiale</em></center></figcaption>
 </figure>
 
