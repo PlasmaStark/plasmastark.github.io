@@ -8,6 +8,12 @@ tags: [divulgativo, presentazione, giochi]
 comments: true
 ---
 
+<figure>
+  <img src="https://user-images.githubusercontent.com/64229723/193784738-1b0bb351-5412-4ffc-a669-a17523aa6ed9.jpg" alt="main" class="center" width="600"/>
+  <figcaption><center><em>Millennium (esagono gargantuesco al centro) insieme agli altri giochi matematici sviluppati</em></center></figcaption>
+</figure>![giochi_matematici]()
+
+
 Questo è il racconto di come io un certo giorno abbia dormito particolarmente bene.
 
 Dopo aver studiato la dose quotidiana del testo del buon Carrada _"comunicare la scienza"_ per il corso del professor [Marco Andreatta](https://andreatta.maths.unitn.it/), ero a letto pronto ad incontrare Morfeo. Non ricordo cosa avessi mangiato quella sera, ma probabilmente deve essere la soluzione a gran parte dei problemi che affliggono il genere umano. Quella sera, infatti, ho avuto l'idea per il progetto richiesto dal corso: un gioco per spiegare come lavora un matematico.
@@ -55,8 +61,7 @@ Dopo quasi un anno di lavoro, il progetto è terminato con una presentazione pub
   <figcaption><center><em>locandina della presentazione ufficiale, ove abbiamo avuto l'onore di pranzare e conversare con personalità del calibro di Giorgio Bolondi e Giorgio Dendi</em></center></figcaption>
 </figure>
 
-
-
+Non voglio lasciare che il gioco mio figlioccio prenda tutta la luce dei riflettori: durante il progetto sono stati sviluppati molti altri giochi interessanti. *Galuedo*, un Cluedo dalla personalità matematica basato sulla storia di Galois. *Numeropoly*, il cui nome dice tutto ma non abbastanza. *CalcolaChi*, Indovina Chi con oggetti e personaggi matematici. *Be4After*, gioco originale simile alla Dama con una affascinante teoria matematica alle spalle.*I Numeri Principi*, gioco originale, una sorta di Scarabeo numerico. Parlare perbene di tutti questi giochi richiederebbe troppo tempo, ma meritano di essere anche solo nominati; non entrerò nei dettagli di alcuni e basta per non fare ingiustizia agli altri.
 
 Concludo senza una conclusione: pare, infatti, che la storia di questo progetto non sia ancora finita. D'altronde, la Maker Faire è dietro l'angolo.
 
