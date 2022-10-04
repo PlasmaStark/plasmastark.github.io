@@ -15,14 +15,17 @@ author: Leonardo Errati
 
 navbar-links:
   About Me: "aboutme"
-  Progetto Prometeo: "prometeo"
+  Progetti Malvagi:
+    - Progetto Prometeo: "prometeo"
+    - Club del libro: "clublibro"
+  
   Contenuti:
     - Is p prime?: "https://plasmastark.github.io/2021-04-05-Is-p-prime/"
     - Le forme della matematica: "https://plasmastark.github.io/2021-04-23-Le-forme-della-matematica/"
     - Quadratic Sieve: "https://plasmastark.github.io/2021-10-22-quadraticsieve/"
     - Progetto Gioco Matematico: "https://plasmastark.github.io/2022-06-12-giocomatematico/"
     # - Python per la crittografia: " "
-   Club del libro: "clublibro"
+   
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
