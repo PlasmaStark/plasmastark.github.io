@@ -38,7 +38,7 @@ Sarebbe bello dire altro, ma per ora devo studiare Algebraic Cryptography quindi
 
 <figure>
   <img src="https://user-images.githubusercontent.com/64229723/193774581-7b2890f7-2749-4bca-88d6-e0d3a4eed5cf.jpg" alt="poster" class="center" width="400"/>
-  <table><caption style="text-align:center"><em>incontro con Dario De Toffoli</em></caption></table>
+  <figcaption><center><em>incontro con Dario De Toffoli</em></center></figcaption>
 </figure>
 
 Vi allego il [regolamento finale del gioco](https://docs.google.com/document/d/1uAApPTy7fUEKRG6HggLM51bzQ1nh3CLX07CUpisWsxI/edit): potete notare come sia *totalmente* diverso dall'idea originale - il che non è affatto un male.
