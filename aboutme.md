@@ -11,7 +11,7 @@ Il mio nome è Leonardo, studio matematica all'Università di Trento e penso che
   <figcaption><center><em>"a good plan goes a long way"</em></center></figcaption>
 </figure>
 
-Formulo un mare di piani ed alcuni a volte funzionano.
+Formulo un mare di piani ed alcuni a volte funzionano. D'altronde ci sono troppe cose da fare e così poco tempo per farle.
 
 Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel ritratto da supercattivo? Non è mio, deve essere finito lì per caso...
 
