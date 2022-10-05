@@ -5,7 +5,7 @@ subtitle: club del libro dalle peculiari regole
 ---
 
 # Presentazione
-Un giorno ho avuto una visione. Ho visto un posto ove poter parlare e leggere libri senza degenerare in due ore di discussione sul legame culturale Francia-Russia che sta dietro Guerra e Pace, ma semplicemente come hobby tranquillo, senza far pesare la cosa come un obbligo.
+Un giorno ho avuto una visione. Ho visto un posto ove poter parlare di libri e leggerli insieme senza degenerare in due ore di discussione sul legame culturale Francia-Russia che sta dietro Guerra e Pace, ma semplicemente come hobby tranquillo, senza far pesare la cosa come un obbligo.
 
 La mia idea è che si possa seguire un percorso comune con altri, non necessariamente leggendo ciascuno ogni volta le stesse cose, ma avendo perfetta libertà - cosa che secondo me è molto più affascinante e meno rompiscatole.
 
