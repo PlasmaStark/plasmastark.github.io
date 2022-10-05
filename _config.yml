@@ -14,7 +14,8 @@ author: Leonardo Errati
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - italiano: "aboutmeit"
   Progetti Malvagi:
     - Progetto Prometeo: "prometeo"
     - Club del libro: "club_libro"
