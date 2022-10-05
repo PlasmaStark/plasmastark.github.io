@@ -11,7 +11,7 @@ La mia idea è che si possa seguire un percorso comune con altri, non necessaria
 
 Ogni mese una certa frazione dei membri verrà invitata a suggerire dei libri da leggere. Non è necessario che ogni partecipante legga uno di questi, o che legga affatto. Si tratta di un invito e nulla di più. *La parola d'ordine è **<u>serenità</u>***.
 
-E sì, potrei avere uno script Python per aiutarmi a gestire il tutto.
+E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club) per aiutarmi a gestire il tutto.
 
 (post scriptum: *affine reading* è un gioco di parole tra gli anglicismi *fine reading*, "buona lettura", ed *affine*, termine matematico)
 
