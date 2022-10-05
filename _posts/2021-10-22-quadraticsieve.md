@@ -4,7 +4,7 @@ title: Quadratic Sieve
 subtitle: come fattorizzare numeri composti! ... probabilmente?
 gh-repo: PlasmaStark
 gh-badge: [follow]
-tags: [specialistico, algebra computazionale, numeri primi]
+tags: [specialistico, algebra computazionale, numeri primi, presentazione]
 comments: true
 ---
 
