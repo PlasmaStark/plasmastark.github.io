@@ -17,8 +17,8 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 
 # Informazioni ed incontri
 
-- (settembre 2022) Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf)
-- (05 ottobre 2022) *Primo incontro ufficiale.* Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda qui sotto.
+- (settembre 2022) **Preludio.** Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf)
+- (05 ottobre 2022) **Primo incontro ufficiale.** Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda qui sotto.
 
 # Funzionamento
 
