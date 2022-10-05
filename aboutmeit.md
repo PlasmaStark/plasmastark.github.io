@@ -8,7 +8,7 @@ Il mio nome è Leonardo, studio matematica all'Università di Trento e penso che
 
 <figure>
   <img src="https://user-images.githubusercontent.com/64229723/193805618-de2d2594-bd61-48d5-ace9-893dc562eb0c.jpg" alt="me" class="center" width="300"/>
-  <figcaption><center><em>a good plan goes a long way</em></center></figcaption>
+  <figcaption><center>come mi piace dire, <em>un buon piano va lontano</em></center></figcaption>
 </figure>
 
 Formulo un mare di piani ed alcuni a volte funzionano. D'altronde ci sono troppe cose da fare e così poco tempo per farle.
