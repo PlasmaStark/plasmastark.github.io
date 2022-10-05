@@ -21,7 +21,7 @@ navbar-links:
     - Progetto Prometeo: "prometeo"
     - Club del libro: "club_libro"
   
-  Contenuti:
+  Contenuti matematicosi:
     - Is p prime?: "https://plasmastark.github.io/2021-04-05-Is-p-prime/"
     - Le forme della matematica: "https://plasmastark.github.io/2021-04-23-Le-forme-della-matematica/"
     - Quadratic Sieve: "https://plasmastark.github.io/2021-10-22-quadraticsieve/"
