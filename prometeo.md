@@ -5,7 +5,7 @@ Non abbiamo sicuramente coperto tutti i corsi, ma siamo soddisfatti del nostro l
 
 Il progetto è attualmente da considerarsi sospeso a tempo indefinito, perché noi membri abbiamo concluso il corso di laurea triennale. Ma chi può dirlo...
 
-Giacomo ed io abbiamo concluso questa esperienza creando il tema LaTeX Beamer ufficiale dell'Università di Trento.
+[Giacomo](https://github.com/giacomoborin) ed io abbiamo concluso questa esperienza creando [il tema LaTeX Beamer ufficiale dell'Università di Trento](https://github.com/giacomoborin/Beamer-Theme), che per qualche arcana ragione è sul suo profilo e non su quello dell'organizzazione.
 
 **Visita l'organizzazione: [Progetto Prometeo](https://github.com/Progetto-Prometeo).**
 
