@@ -17,6 +17,7 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 
 # Informazioni ed incontri
 
+- (settembre 2022) Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf)
 - (05 ottobre 2022) *Primo incontro ufficiale*
 
 # Dati extra
