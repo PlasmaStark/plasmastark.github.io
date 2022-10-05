@@ -11,7 +11,7 @@ My apologies if the content of this website is mostly in Italian, but it would b
 
 <figure>
   <img src="https://user-images.githubusercontent.com/64229723/193805618-de2d2594-bd61-48d5-ace9-893dc562eb0c.jpg" alt="me" class="center" width="300"/>
-  <figcaption><center><em>a good plan goes a long way</em></center></figcaption>
+  <figcaption><center>as I like to say, <em>a good plan goes a long way</em></center></figcaption>
 </figure>
 
 I generate lots of plans and sometimes some of them even work. After all, there is too much to do in too little time.
