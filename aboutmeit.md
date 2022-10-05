@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chi sono (ita)
+title: About me
 subtitle: informazioni generali
 ---
 
