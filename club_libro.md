@@ -9,7 +9,7 @@ Un giorno ho avuto una visione. Ho visto un posto ove poter parlare di libri e l
 
 La mia idea è che si possa seguire un percorso comune con altri, non necessariamente leggendo ciascuno ogni volta le stesse cose, ma avendo perfetta libertà - cosa che secondo me è molto più affascinante e meno rompiscatole.
 
-Ogni mese una certa frazione dei membri verrà invitata a suggerire dei libri da leggere. Non è necessario che ogni partecipante legga uno di questi, o che legga affatto. Si tratta di un invito e nulla di più. *La parola d'ordine è **<u>serenità</u>***.
+Ogni mese una certa frazione dei membri verrà invitata a suggerire dei libri da leggere. Non è necessario che ogni partecipante legga uno di questi, o che legga affatto. Si tratta di un invito e nulla di più. *La parola d'ordine è **serenità***.
 
 E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club) per aiutarmi a gestire il tutto.
 
