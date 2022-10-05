@@ -15,6 +15,11 @@ Formulo un mare di piani ed alcuni a volte funzionano. D'altronde ci sono troppe
 
 Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel ritratto da supercattivo? Non è mio, deve essere finito lì per caso...
 
+### CV personale (luglio 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
+
+
+### CV formato Europass (ottobre 2022): 
+
 
 
 
