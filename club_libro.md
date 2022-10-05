@@ -18,11 +18,11 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 # Informazioni ed incontri
 
 - (settembre 2022) Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf)
-- (05 ottobre 2022) *Primo incontro ufficiale.* Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni erudito potrà proporre due libri. Sono stati scelti tre eruditi. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda [qui sotto](https://github.com/PlasmaStark/plasmastark.github.io/edit/master/club_libro.md#dati-extra).
+- (05 ottobre 2022) *Primo incontro ufficiale.* Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre eruditi. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda [qui sotto](https://github.com/PlasmaStark/plasmastark.github.io/edit/master/club_libro.md#dati-extra).
 
 # Funzionamento
 
-Ogni mese, un certo numero di persone verrà scelto a caso (solitamente un terzo o un mezzo dei partecipanti). Queste persone potranno proporre al gruppo un libro cadauna, ed è divertente chiamarle *gli eruditi*. Sceglieranno il libro come segue:
+Ogni mese, un certo numero di persone verrà scelto a caso (solitamente un terzo o un mezzo dei partecipanti). Queste persone potranno proporre al gruppo un libro cadauna, ed è divertente chiamarle *arconti*. Sceglieranno il libro come segue:
 - in piena libertà, ma sapendo che se dovessero scegliere un libro proibitivo ben pochi lo leggeranno
 - (facoltativo) fornendo un breve commento al libro proposto, per spiegare al gruppo perché dovrebbero leggerlo
 - seguendo un tema adeguato al mese, oppure senza tema alcuno, (ancora) in totale libertà
