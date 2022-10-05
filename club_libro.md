@@ -23,9 +23,9 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 # Funzionamento
 
 Ogni mese, un certo numero di persone verrà scelto a caso (solitamente un terzo o un mezzo dei partecipanti). Queste persone potranno proporre al gruppo un libro cadauna, ed è divertente chiamarle *arconti*. Sceglieranno il libro come segue:
-- in piena libertà, ma sapendo che se dovessero scegliere un libro proibitivo ben pochi lo leggeranno
+- in piena libertà, ma consci che se dovessero scegliere un libro proibitivo ben pochi lo leggeranno
 - (facoltativo) fornendo un breve commento al libro proposto, per spiegare al gruppo perché dovrebbero leggerlo
-- seguendo un tema adeguato al mese, oppure senza tema alcuno, (ancora) in totale libertà
+- seguendo un tema adeguato al mese, oppure senza tema alcuno, liberamente
 - senza nessun obbligo, se dovessero desiderarlo è possibile rinunciare
 
 Per i partecipanti non è obbligatorio leggere uno dei libri proposti - anche se ovviamente sarebbe più divertente. Non è addiritura obbligatorio leggere affatto. Verrà scelto collettivamente un incontro mensile ove trovarsi e decidere per il mese successivo.
