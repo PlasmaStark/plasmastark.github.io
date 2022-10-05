@@ -7,6 +7,8 @@ subtitle: general information
 My name is Leonardo, I study mathematics at University of Trento and I think I will enjoy talking about maths in the future - although I have no idea how. 
 One chance could be [my youtube channel](https://www.youtube.com/channel/UCO1l67JZBNiNEA2cb8M1fbQ), or maybe writing books, who knows.
 
+My apologies if the content of this website is mostly in Italian, but it would be quite the hustle to translate it all. I could do it sometimes in the future.
+
 <figure>
   <img src="https://user-images.githubusercontent.com/64229723/193805618-de2d2594-bd61-48d5-ace9-893dc562eb0c.jpg" alt="me" class="center" width="300"/>
   <figcaption><center><em>a good plan goes a long way</em></center></figcaption>
