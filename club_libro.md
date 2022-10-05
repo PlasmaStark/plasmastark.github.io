@@ -23,7 +23,7 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 
 1. (**nome club**) Il nome è potenzialmente ancora in lavorazione.
 
-2. (**GoodReads**) Stiamo testando la possibilità di utilizzare GoodReads per tenere traccia dei libri letti dai membri (ad esempio, [il mio profilo](https://www.goodreads.com/leonardus). L'adesione è puramente facoltativa. Questo potrebbe incentivare la lettura sfruttando i classici meccanismi da social network, che in questo caso potrebbero fare del bene. Oltre a vendere i dati dei libri che abbiamo letto! 
+2. (**GoodReads**) Stiamo testando la possibilità di utilizzare GoodReads per tenere traccia dei libri letti dai membri (ad esempio, [il mio profilo](https://www.goodreads.com/leonardus)). L'adesione è puramente facoltativa. Questo potrebbe incentivare la lettura sfruttando i classici meccanismi da social network, che in questo caso potrebbero fare del bene. Oltre a vendere i dati dei libri che abbiamo letto! 
 Il sistema di recensioni e di traguardi lettura è affascinante.
 
 3. (**valutazioni interne**) Stiamo testando l'idea di tenere una grossa lista dei libri proposti da ciascun partecipante, contenente valutazioni numeriche di chi ha letto il libro in questione. Ciò potrebbe migliorare l'esperienza. Sarebbe da evitare il farlo sfociare in una competizione.
