@@ -18,7 +18,8 @@ Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel 
 ### CV personale (luglio 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
 
 
-### CV formato Europass (ottobre 2022): 
+### CV formato Europass (ottobre 2022): [file PDF (nota: foto da sistemare)](https://github.com/PlasmaStark/plasmastark.github.io/files/9717015/CVlongboy.pdf)
+
 
 
 
