@@ -16,7 +16,7 @@ My apologies if the content of this website is mostly in Italian, but it would b
 
 I generate lots of plans and sometimes some of them even work. After all, there is too much to do in too little time.
 
-Don't listen to those rapscallions going around telling I am a supervillain, lies and deceptions! What, that villain-ish portrait? It's not mine, how did it even get there?
+Don't listen to those nasty rapscallions going around telling I am a supervillain, lies and deceptions! What, that villain-ish portrait? It's not mine, how did it even get there?
 
 ### personal CV in English (august 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
 
