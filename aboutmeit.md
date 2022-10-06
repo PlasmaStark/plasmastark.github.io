@@ -18,10 +18,5 @@ Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel 
 ### CV personale in inglese (luglio 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
 
 
-### CV formato Europass in Italiano (ottobre 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9726799/CVnotsolongboy.pdf)
-
-
-
-
-
+### CV formato Europass in Italiano (ottobre 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9728746/CV.Europass.Leonardo.Errati.pdf)
 
