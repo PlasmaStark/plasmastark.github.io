@@ -21,7 +21,7 @@ Don't listen to those rapscallions going around telling I am a supervillain, lie
 ### personal CV in English (august 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
 
 
-### Europass CV in Italian (ottobre 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9726784/CVnotsolongboy.pdf)
+### Europass CV in Italian (ottobre 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9728746/CV.Europass.Leonardo.Errati.pdf)
 
 
 
