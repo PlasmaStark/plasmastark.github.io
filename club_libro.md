@@ -22,11 +22,11 @@ Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.g
 
 ### 05 ottobre 2022
 Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: 
-- *Il Mondo Nuovo* (Aldous Huxley)
-- *Unione Galattica - La Nascita* (Leonardo Tovaglia)
-- *Questa è l'America* (Francesco Costa)
-- *Il Fantasma di Canterville* (Oscar Wilde)
-- *Le Otto Montagne* (Paolo Cognetti)
+- [L.T.] *Il Mondo Nuovo* (Aldous Huxley)
+- [L.T.] *Unione Galattica - La Nascita* (Leonardo Tovaglia)
+- [G.B.] *Questa è l'America* (Francesco Costa)
+- [F.D.] *Il Fantasma di Canterville* (Oscar Wilde)
+- [F.D.] *Le Otto Montagne* (Paolo Cognetti)
 
 # Funzionamento
 
