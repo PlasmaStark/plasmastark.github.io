@@ -18,7 +18,11 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 # Informazioni ed incontri
 
 - **Preludio.** Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf)
-- (05 ottobre 2022) **Primo incontro ufficiale.** Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: *Il Mondo Nuovo*, *Unione Galattica - La Nascita*, *Questa è l'America*, *Il Fantasma di Canterville*, *Le Otto Montagne*
+- (05 ottobre 2022) **Primo incontro ufficiale.** Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: *Il Mondo Nuovo (Aldous Huxley)
+*Unione Galattica - La Nascita (Leonardo Tovaglia)
+*Questa è l'America (Francesco Costa)
+*Il Fantasma di Canterville (Oscar Wilde)
+*Le Otto Montagne (Paolo Cognetti)
 
 # Funzionamento
 
