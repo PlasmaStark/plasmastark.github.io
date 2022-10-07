@@ -21,7 +21,7 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf).
 
 ### 05 ottobre 2022
-Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Proponiamo l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: 
+Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Stiamo verificando l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: 
 - **L.T.** *Il Mondo Nuovo* (Aldous Huxley)
 - **L.T.** *Unione Galattica - La Nascita* (Leonardo Tovaglia)
 - **G.B.** *Questa è l'America* (Francesco Costa)
@@ -43,7 +43,7 @@ Per i partecipanti non è obbligatorio leggere uno dei libri proposti - anche se
 
 1. (**nome club**) Il nome è potenzialmente ancora in lavorazione.
 
-2. (**GoodReads**) Stiamo testando la possibilità di utilizzare GoodReads per tenere traccia dei libri letti dai membri (ad esempio, [il mio profilo](https://www.goodreads.com/leonardus)). L'adesione è puramente facoltativa. Questo potrebbe incentivare la lettura sfruttando i classici meccanismi da social network, che in questo caso potrebbero fare del bene. Oltre a vendere i dati dei libri che abbiamo letto! 
+2. (**GoodReads**) Stiamo testando la possibilità di utilizzare GoodReads per tenere traccia dei libri letti dai membri (ad esempio, [il mio profilo](https://www.goodreads.com/leonardus) ed [il gruppo del club](https://www.goodreads.com/group/show/1197349-affine-reading)). L'adesione è puramente facoltativa. Questo potrebbe incentivare la lettura sfruttando i classici meccanismi da social network, che in questo caso potrebbero fare del bene. Oltre a vendere i dati dei libri che abbiamo letto! 
 Il sistema di recensioni e di traguardi lettura è affascinante.
 
 3. (**valutazioni interne**) Stiamo testando l'idea di tenere una grossa lista dei libri proposti da ciascun partecipante, contenente valutazioni numeriche di chi ha letto il libro in questione. Ciò potrebbe migliorare l'esperienza. Sarebbe da evitare il farlo sfociare in una competizione.
