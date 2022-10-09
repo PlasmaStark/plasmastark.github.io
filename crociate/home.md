@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: crociate personali
 subtitle: non riesco a stare fermo
 ---
