@@ -14,7 +14,9 @@ Ho deciso che avere un database delle mie personalissime e casualissime crociate
 Unico libro di Asimov che parli di alieni, con una trama non male. Vorrei cercare una edizione vintage  pur accontentandomi in realtà di una qualunque altra versione. 
 Ho sbattuto mio malgrado sulla sua introvabilità: blog e siti internet non parlano di altro. La casa editrice Mondadori non sembra volermi aiutare, dato che in trent'anni l'unica edizione nuova uscita è un e-book.
 
-Inutile dire che questo non potrà fermarmi. Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani ben più di questa semplice introduzione.
+Inutile dire che questo non potrà fermarmi. Mercatini dei libri usati e librai saranno preziosi alleati. 
+
+Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani ben più di questa semplice introduzione.
 
 <block>
   <center><em>
