@@ -4,7 +4,7 @@ title: Crociate Personali
 subtitle: non riesco a stare fermo
 ---
 
-Ho deciso che avere un database delle mie personalissime e casualissime crociate era un'idea troppo divertente per non metterla in pratica.
+Ho deciso che avere un database delle mie personalissime e casualissime crociate era un'idea troppo divertente per non metterla in pratica. Ovviamente alcune crociate proseguono da ben prima della creazione di questa pagina, le aggiungerò gradualmente e quando avrò voglia.
 
 # A caccia di libri: Isaac Asimov, "Neanche gli Dèi"
 <figure>
