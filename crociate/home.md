@@ -16,9 +16,11 @@ Ho sbattuto mio malgrado sulla sua introvabilità: blog e siti internet non parl
 
 Inutile dire che questo non potrà fermarmi. Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani ben più di questa semplice introduzione.
 
-<center><em>
+<block>
+  <center><em>
   "Il ritrovamento, in un laboratorio, di una sostanza che, secondo le nostre leggi fisiche, non può esistere, porta un gruppo di scienziati a entrare in contatto con una razza misteriosa ed evolutissima che abita in una realtà parallela alla nostra. La scoperta provoca in breve una vera e propria rivoluzione nella scienza. Grazie alla collaborazione tra i due universi i terrestri riescono a impadronirsi di una fonte di energia apparentemente inesauribile. Ma chi sono veramente gli esseri misteriosi che si presentano come portatori di benessere? Se sono veramente degli dèi benevoli come mai dall'altra parte iniziano ad arrivare enigmatici segnali di pericolo? Un avvincente mistery cosmico nel quale Asimov, per la prima volta, si cimenta con la rappresentazione di creature extraterrestri."
   </center></em>
+ </block>
 
 ### 9 ottobre 2022
 Devo pur inserire da qualche parte le strade percorse prima di creare questa pagina, e penso che questo punto sia il luogo che cerco.
