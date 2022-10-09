@@ -20,6 +20,7 @@ navbar-links:
   Progetti Malvagi:
     - Progetto Prometeo: "prometeo"
     - Club del libro: "club_libro"
+    - Le mie crociate: "crociate/home"
   
   Contenuti matematicosi:
     - Is p prime?: "https://plasmastark.github.io/2021-04-05-Is-p-prime/"
