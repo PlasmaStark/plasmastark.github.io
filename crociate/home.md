@@ -11,7 +11,7 @@ Ho deciso che avere un database delle mie personalissime e casualissime crociate
   <img src="https://user-images.githubusercontent.com/64229723/194760144-1a2fc30c-7157-46f9-87c9-01a22780fbd3.jpg" alt="asimov" class="center" width="300"/>
   <figcaption><center><em>immagine del libro formato epub, Mondadori (2021)</em></center></figcaption>
 </figure>
-Unico libro di Asimov che parli di alieni, con una trama non male. Ho provato a cercare una edizione vintage  pur accontentandomi in realtà di una qualunque altra versione. 
+Unico libro di Asimov che parli di alieni, con una trama non male. Vorrei cercare una edizione vintage  pur accontentandomi in realtà di una qualunque altra versione. 
 Ho sbattuto mio malgrado sulla sua introvabilità: blog e siti internet non parlano di altro.
 
 Inutile dire che questo non potrà fermarmi. Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani ben più di questa semplice introduzione.
@@ -23,6 +23,6 @@ Un avvincente mistery cosmico nel quale Asimov, per la prima volta, si cimenta c
 Devo pur inserire da qualche parte le strade percorse prima di creare questa pagina, e penso che questo punto sia il luogo che cerco.
 Il libro è disponibile su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità su cui tornare in caso di fallimento. Sottolineo anche la presenza di una edizione inglese, ma per questo libro preferirei una edizione in italiano.
 
-Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori. Presto indagherò ulteriormente.
+Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori. Presto indagherò ulteriormente, ed ho già qualche idea.
 
 
