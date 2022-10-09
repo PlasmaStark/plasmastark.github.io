@@ -22,6 +22,9 @@ Inutile dire che questo non potrà fermarmi. Vi lascio con la sinossi della tram
   </center></em>
  </block>
 
+
+
+
 ### 9 ottobre 2022
 Devo pur inserire da qualche parte le strade percorse prima di creare questa pagina, e penso che questo punto sia il luogo che cerco.
 Il libro è disponibile su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità su cui tornare in caso di fallimento. Sottolineo anche la presenza di una edizione inglese, ma per questo libro preferirei una edizione in italiano.
