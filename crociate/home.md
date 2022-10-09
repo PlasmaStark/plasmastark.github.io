@@ -19,7 +19,7 @@ Inutile dire che questo non potrà fermarmi. Vi lascio con la sinossi della tram
 <block>
   <center><em>
   "Il ritrovamento, in un laboratorio, di una sostanza che, secondo le nostre leggi fisiche, non può esistere, porta un gruppo di scienziati a entrare in contatto con una razza misteriosa ed evolutissima che abita in una realtà parallela alla nostra. La scoperta provoca in breve una vera e propria rivoluzione nella scienza. Grazie alla collaborazione tra i due universi i terrestri riescono a impadronirsi di una fonte di energia apparentemente inesauribile. Ma chi sono veramente gli esseri misteriosi che si presentano come portatori di benessere? Se sono veramente degli dèi benevoli come mai dall'altra parte iniziano ad arrivare enigmatici segnali di pericolo? Un avvincente mistery cosmico nel quale Asimov, per la prima volta, si cimenta con la rappresentazione di creature extraterrestri."
-  </center></em>
+  </em></center>
  </block>
 
 
