@@ -33,4 +33,7 @@ Il libro è disponibile su Ebay, ma preferirei una caccia più personale (e con 
 
 Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori. Presto indagherò ulteriormente, ed ho già qualche idea.
 
+### 10 ottobre 2022
+Nessuna novità alla Mondadori, completamente fuori catalogo, ma ho acquisito la posizione di una nuova e mistica libreria.
+
 
