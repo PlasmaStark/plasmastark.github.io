@@ -29,11 +29,11 @@ Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani b
 
 ### 9 ottobre 2022
 Devo pur inserire da qualche parte le strade percorse prima di creare questa pagina, e penso che questo punto sia il luogo che cerco.
-Il libro è disponibile su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità su cui tornare in caso di fallimento. Sottolineo anche la presenza di una edizione inglese, ma per questo libro ne preferirei una in italiano.
+Il libro è su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità in caso di fallimento. Sottolineo la presenza di una edizione inglese, ma per questo libro ne preferirei una in italiano.
 
 Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori. Presto indagherò ulteriormente, ed ho già qualche idea.
 
 ### 10 ottobre 2022
-Nessuna novità alla Mondadori, completamente fuori catalogo, ma ho acquisito la posizione di una nuova e mistica libreria.
+Nessuna novità dalla Mondadori, completamente fuori catalogo, ma ho acquisito la posizione di una nuova e mistica libreria.
 
 
