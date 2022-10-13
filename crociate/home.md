@@ -36,4 +36,8 @@ Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori
 ### 10 ottobre 2022
 Nessuna novità dalla Mondadori, completamente fuori catalogo, ma ho acquisito la posizione di una nuova e mistica libreria.
 
+### 13 ottobre 2022
+
+Molti negozi di libri usati non hanno notizie del libro. Ne ho ancora altri da visitare. Presto tutti i librai della città mi riconosceranno.
+
 
