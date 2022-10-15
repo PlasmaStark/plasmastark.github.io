@@ -26,18 +26,21 @@ Vi lascio con la sinossi della trama, sperando che in futuro avrò tra le mani b
 
 
 
+### 28 settembre 2022
+La ricerca ha inizio. Ignaro di tutto, penso di poter trovare facilmente una versione vintage.
+
+### 4 ottobre 2022
+Ho scoperto che non è facile trovarlo. Il libro è su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità in caso di fallimento. Sottolineo la presenza di una edizione inglese, ma per questo libro ne preferirei una in italiano.
 
 ### 9 ottobre 2022
-Devo pur inserire da qualche parte le strade percorse prima di creare questa pagina, e penso che questo punto sia il luogo che cerco.
-Il libro è su Ebay, ma preferirei una caccia più personale (e con sovrapprezzo minore). Resta comunque un'ottima possibilità in caso di fallimento. Sottolineo la presenza di una edizione inglese, ma per questo libro ne preferirei una in italiano.
-
 Oggi ho visitato la libreria Giunti e non hanno notizie da nessuno dei fornitori. Presto indagherò ulteriormente, ed ho già qualche idea.
 
 ### 10 ottobre 2022
 Nessuna novità dalla Mondadori, completamente fuori catalogo, ma ho acquisito la posizione di una nuova e mistica libreria.
 
 ### 13 ottobre 2022
-
 Molti negozi di libri usati non hanno notizie del libro. Ne ho ancora altri da visitare. Presto tutti i librai della città mi riconosceranno.
 
+### 15 ottobre 2022
+Ho visitato tutta la dozzina di librerie del centro. Nessuna lo ha. Mi vedo costretto ad utilizzare i mezzi pesanti: [arretrati dei periodici Mondadori](https://arretrati.mondadori.it/privati/fascicolo-n-20210222-di-urania-collezione.html).
 
