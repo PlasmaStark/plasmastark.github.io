@@ -50,5 +50,9 @@ Il libro cartaceo era in allegato al periodico Urania Collezione (numero 222 di 
 ### 18 ottobre
 Giusto ieri mi sono arreso ed ho ordinato una versione inglese. Ironicamente, è arrivata in meno di 24h. Purtroppo è di fattura poco soddisfacente, ma credo che per ora dovrò accontentarmi. Devo arrendermi al poco interesse della Mondadori.
 
-## Stato crociata: vittoria di Pirro
+<block>
+  <center><em>
+  Stato crociata: vittoria di Pirro
+  </em></center>
+ </block>
 
