@@ -44,3 +44,11 @@ Molti negozi di libri usati non hanno notizie del libro. Ne ho ancora altri da v
 ### 15 ottobre 2022
 Ho visitato tutta la dozzina di librerie del centro. Nessuna lo ha. Mi vedo costretto ad utilizzare i mezzi pesanti: [arretrati dei periodici Mondadori](https://arretrati.mondadori.it/privati/fascicolo-n-20210222-di-urania-collezione.html).
 
+### 17 ottobre 
+Il libro cartaceo era in allegato al periodico Urania Collezione (numero 222 di luglio 2021). Purtroppo il servizio arretrati mi ha confermato che sono totalmente esauriti. La Mondadori ha i diritti per Asimov in Italia, eppure non li usa. Affascinante. 
+
+### 18 ottobre
+Giusto ieri mi sono arreso ed ho ordinato una versione inglese. Ironicamente, è arrivata in meno di 24h. Purtroppo è di fattura poco soddisfacente, ma credo che per ora dovrò accontentarmi. Devo arrendermi al poco interesse della Mondadori.
+
+## Stato crociata: vittoria di Pirro
+
