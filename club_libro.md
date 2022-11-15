@@ -31,7 +31,7 @@ Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio
 ### 09 novembre 2022
 Secondo incontro ufficiale.
 - **F.G.** *La signora scompare* (Ethel Lina White)
-- **F.G.** *La signora scompare* (Ethel Lina White)
+- **F.G.** *La torre dell'orologio* (Lorenzo Lascaris)
 - **L.** *Epopea di Gilgamesh* (??)
 - **L.** *Il più grande uomo scimmia del pleistocene* (Roy Lewis)
 - **A.K.** *I versi satanici* (Salman Rushdie)
