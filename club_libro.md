@@ -28,6 +28,15 @@ Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio
 - **F.D.** *Il Fantasma di Canterville* (Oscar Wilde)
 - **F.D.** *Le Otto Montagne* (Paolo Cognetti)
 
+### 09 novembre 2022
+Secondo incontro ufficiale.
+- **F.G.** *La signora scompare* (Ethel Lina White)
+- **F.G.** *La signora scompare* (Ethel Lina White)
+- **L.** *Epopea di Gilgamesh* (??)
+- **L.** *Il più grande uomo scimmia del pleistocene* (Roy Lewis)
+- **A.K.** *I versi satanici* (Salman Rushdie)
+- **A.K.** Qualsiasi libro di Bill Bryson
+
 # Funzionamento
 
 Ogni mese, un certo numero di persone verrà scelto a caso (solitamente un terzo o un mezzo dei partecipanti). Queste persone potranno proporre al gruppo un libro cadauna, ed è divertente chiamarle *arconti*. Sceglieranno il libro come segue:
