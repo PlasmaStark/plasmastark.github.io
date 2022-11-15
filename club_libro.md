@@ -33,7 +33,7 @@ Secondo incontro ufficiale.
 - **F.G.** *La signora scompare* (Ethel Lina White)
 - **F.G.** *La torre dell'orologio* (Lorenzo Lascaris)
 - **L.** *Epopea di Gilgamesh* (??)
-- **L.** *Il più grande uomo scimmia del pleistocene* (Roy Lewis)
+- **L.** *Il più grande uomo-scimmia del Pleistocene* (Roy Lewis)
 - **A.K.** *I versi satanici* (Salman Rushdie)
 - **A.K.** Qualsiasi libro di Bill Bryson
 
