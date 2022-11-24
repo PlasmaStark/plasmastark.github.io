@@ -1,6 +1,6 @@
 ---
 layout: post
-title: come eliminare gli errori con l'algebra
+title: Eliminare gli errori con l'algebra
 subtitle: intorduzione di livello medio-basso alla Teoria dei Codici
 gh-repo: PlasmaStark
 gh-badge: [follow]
@@ -16,5 +16,9 @@ Pur essendo prettamente facoltativo, mi solleticava l'idea di provare a costruir
 Presenterò brevemente alcuni brandelli della teoria necessaria. Essendo un foglio esercizi alcuni semplici passaggi sono lasciati agli studenti da completare. ma nonostante questo ho scelto di guidarli con vari suggerimenti.
 
 [esercizi_teoria_dei_codici.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/10087480/esercizi_teoria_dei_codici.pdf)
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/64229723/203869118-8c844beb-1d3f-41ef-b988-b46d4da64b5a.jpg" alt="poster2" class="center" width="400"/>
+</figure>
 
 
