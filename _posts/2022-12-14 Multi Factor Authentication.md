@@ -1,0 +1,28 @@
+---
+layout: post
+title: MultiFactor Authentication: Handle with Care
+subtitle: 
+gh-repo: PlasmaStark
+gh-badge: [follow]
+tags: [specialistico, presentazione, cybersecurity]
+comments: true
+---
+
+
+Ho avuto l'opportunità di presentare un breve seminario sulla MultiFactor Authentication (Autenticazione a Più Fattori) nel contesto della Fondazioen Bruno Kessler. Per questioni comunicative è stata tenuta in inglese, quindi tutti i materiali sono in lingua inglese. Ringrazio FBK ed UniTN per l'opportunità.
+
+
+<center> 
+  <em>
+    The authentication problem has always been of paramount importance. A step forward from classical passwords, Multi-Factor Authentication is paving the way for a safe log-in experience. However, especially if mishandled, it is still vulnerable to attacks and manipulations: MFA is not a silver bullet.
+We will provide a general introduction to authentication and MFA, and then proceed to outline its characteristics. Real-life examples will show us potential weaknesses, but also possible solutions. 
+  </em>
+</center>
+
+
+[**slides**](https://github.com/PlasmaStark/plasmastark.github.io/files/10254671/mfa_slides.pdf)
+
+<figure>
+  <img src="https://user-images.githubusercontent.com/64229723/208320355-a140cff6-5d4e-44fd-9285-b560359d9ae2.jpg" alt="poster2" class="center" width="729"/>
+</figure>
+
