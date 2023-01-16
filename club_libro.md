@@ -20,7 +20,7 @@ E sì, potrei avere [uno script Python](https://github.com/PlasmaStark/Book-Club
 ### Preludio
 Volantini [per il polo scientifico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716612/AFfine.reading.pdf) ed in seguito [polo umanistico](https://github.com/PlasmaStark/plasmastark.github.io/files/9716614/AFfine.reading.1.pdf).
 
-### 05 ottobre 2022
+### ottobre 2022
 Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio delle attività, ogni arconte potrà proporre due libri. Sono stati scelti tre arconti. Stiamo verificando l'utilizzo del sito GoodReads per formare un gruppo interno: si veda la sezione *"contenuti extra"* qui sotto. Proposte del mese: 
 - **L.T.** *Il Mondo Nuovo* (Aldous Huxley)
 - **L.T.** *Unione Galattica - La Nascita* (Leonardo Tovaglia)
@@ -28,14 +28,19 @@ Primo incontro ufficiale. Per calibrare il sistema del club e celebrare l'inizio
 - **F.D.** *Il Fantasma di Canterville* (Oscar Wilde)
 - **F.D.** *Le Otto Montagne* (Paolo Cognetti)
 
-### 09 novembre 2022
-Secondo incontro ufficiale.
+### novembre 2022
 - **F.G.** *La signora scompare* (Ethel Lina White)
 - **F.G.** *La torre dell'orologio* (Lorenzo Lascaris)
 - **L.** *Epopea di Gilgamesh* (??)
 - **L.** *Il più grande uomo-scimmia del Pleistocene* (Roy Lewis)
 - **A.K.** *I versi satanici* (Salman Rushdie)
 - **A.K.** Qualsiasi libro di Bill Bryson
+
+### dicembre 2022 & gennaio 2023
+- **A.C.** *Kafka on the shore* (Haruki Murakami)
+- **A.C.** *Canne al vento* (Grazia Deledda)
+- **G.E.** *Considera l'aragosta* (David Foster Wallace)
+- **G.E.** *Tempo di uccidere* (Enrico Flaiano)
 
 # Funzionamento
 
