@@ -11,13 +11,14 @@ comments: true
 Ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. 
 
 <figure>
-  <img src="[https://user-images.githubusercontent.com/64229723/193793878-2aea1fb9-cc82-40c9-81a0-1f7a0f91486b.jpg](https://github.com/PlasmaStark/plasmastark.github.io/assets/64229723/ee2d5243-8a59-4228-a572-7cae0250c16b)" alt="poster2" class="center" width="400"/>
+  <img src="https://github.com/PlasmaStark/plasmastark.github.io/assets/64229723/ee2d5243-8a59-4228-a572-7cae0250c16b" alt="poster2" class="center" width="400"/>
   <figcaption><center><em>pomeriggio della presentazione ufficiale</em></center></figcaption>
 </figure>
 
 L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso. 
 
-Di seguito, in ordine alfabetico, sintesi e motivazione degli interventi. La parola agli speaker!
+Di seguito, in ordine alfabetico, sintesi e motivazione degli interventi.
+La parola agli speaker!
 
 ----------
 
@@ -30,9 +31,12 @@ Motivazione: Rendere noti alcuni nomi e alcune storie di donne che hanno contrib
 
 ## Leonardo Errati – MSc Cryptography and Codes - *"Hamming: l’uomo che ha sconfitto gli errori"*
  
-*Partendo dalla storia di un giorno andato storto per Richard Hamming, capiremo come creare un sistema di correzione errori. La teoria dei codici ci insegnerà come sia possibile far fiorire matematicamente un argomento che sembra rasentare la magia. Noteremo poi alcuni limiti, ma anche applicazioni concrete dal mondo reale. Unico requisito: capire ed apprezzare x+y=1.*
+*Partendo dalla storia di un giorno andato storto per Richard Hamming, capiremo come creare un sistema di correzione errori. La teoria dei codici ci insegnerà come sia possibile far fiorire matematicamente un argomento che sembra rasentare la magia. Noteremo poi alcuni limiti, ma anche applicazioni concrete dal mondo reale. Unico requisito: capire ed cosa vuol dire x+y=1. Concludo la presentazione con un gioco: grazie ai codici di Hamming, consentendovi di mentire una volta, posso (1) capire il numero a cui pensavate, e (2) capire dove avete mentito.*
 
 Motivazione: Mostrare come costruire una struttura matematica sopra un problema. Il codice [7,4]-Hamming si presta perfettamente, avendo sia una spiegazione “intuitiva” (insiemi) che una spiegazione “matematica” (equazioni). Apprezzare come la matematica permetta di generalizzare un problema che a primo acchito sembra solo una curiosa coincidenza. Capire come la matematica sia in realtà di grande interesse nel mondo reale.
+
+- slides: [hamming.pdf](https://github.com/PlasmaStark/plasmastark.github.io/files/11859876/hamming.pdf)
+
  
 
 ## Iris Mangiapane – MSc Aadvanced Mathematics - *"Il dilemma del prigioniero"*
