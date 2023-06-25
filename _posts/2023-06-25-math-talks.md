@@ -22,14 +22,14 @@ La parola agli speaker!
 
 ----------
 
-## Ursula D’Elia – MSc Teaching & Communication - "Di matematica non ce n’è una sola"
+## Ursula D’Elia (MSc Teaching & Communication), "Di matematica non ce n’è una sola"
  
 *Di matematica non ce n’è una sola’ sarà un seminario che sfrutterà più significati del suo titolo per far affacciare i ragazzi alla finestra del mondo matematico, sia da un punto di vista storico che da un punto di vista universitario. Verranno presentate le figure di alcune donne rilevanti per la storia della materia e, prendendo spunto dagli ambiti della matematica di cui si sono occupate, introdurremo quali sono le sue principali aree che si studiano all’università.*
 
 Motivazione: Rendere noti alcuni nomi e alcune storie di donne che hanno contribuito alla matematica in modo significativo e fornire agli studenti un’idea di cosa si studia nella pratica in un corso di laurea in matematica.
  
 
-## Leonardo Errati – MSc Cryptography and Codes - *"Hamming: l’uomo che ha sconfitto gli errori"*
+## Leonardo Errati (MSc Cryptography and Codes), *"Hamming: l’uomo che ha sconfitto gli errori"*
  
 *Partendo dalla storia di un giorno andato storto per Richard Hamming, capiremo come creare un sistema di correzione errori. La teoria dei codici ci insegnerà come sia possibile far fiorire matematicamente un argomento che sembra rasentare la magia. Noteremo poi alcuni limiti, ma anche applicazioni concrete dal mondo reale. Unico requisito: capire ed cosa vuol dire x+y=1. Concludo la presentazione con un gioco: grazie ai codici di Hamming, consentendovi di mentire una volta, posso (1) capire il numero a cui pensavate, e (2) capire dove avete mentito.*
 
@@ -39,14 +39,14 @@ Motivazione: Mostrare come costruire una struttura matematica sopra un problema.
 
  
 
-## Iris Mangiapane – MSc Aadvanced Mathematics - *"Il dilemma del prigioniero"*
+## Iris Mangiapane (MSc Aadvanced Mathematics), *"Il dilemma del prigioniero"*
  
 *Il dilemma del prigioniero è il più tradizionale esempio utilizzato per introdurre la teoria dei giochi e il concetto di equilibrio di Nash. La teoria dei giochi è una branca della matematica che si occupa di studiare problemi in cui più individui prendono delle decisioni, le cui conseguenze non dipendono solo dalle scelte del singolo ma anche dalle scelte degli altri. Queste ultime, nella maggior parte dei casi, non possono essere conosciute in anticipo: come agire in condizioni di incertezza per massimizzare il proprio guadagno e minimizzare la propria perdita?*
 
 Motivazione: Introdurre i ragazzi a una branca della matematica interdisciplinare attraverso dei semplici problemi. Alleggerendo i concetti matematici tramite lo storytelling, si intende dare un’idea di che applicazioni abbia questa teoria.
  
 
-## Leonardo Tovaglia ¬– MSc Statistics & Mathematics for Life - *"Lotka Volterra e altri modelli simili"*
+## Leonardo Tovaglia (MSc Statistics & Mathematics for Life), *"Lotka Volterra e altri modelli simili"*
  
 *Nei seguenti minuti si vuole spiegare come l'analisi matematica possa elaborare modelli utili alla scienza, e non solo alla fisica, in particolare modelli che cercano di descrivere (anche se in modo approssimato e non esatto) fenomeno quali epidemie e crescita di popolazioni. In particolare, il modello di Lotka Volterra per la variazione delle popolazioni di prede e predatori sarà centrale nell'esposizione.*
 
