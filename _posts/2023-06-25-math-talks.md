@@ -8,9 +8,11 @@ tags: [divulgativo, conferenza]
 comments: true
 ---
 
-Ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. Altri tre prodi matematici sono saliti a bordo.
+Ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. 
 
-L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica!
+L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso.
+
+----------
 
 ## Ursula D’Elia – MSc Teaching & Communication - "Di matematica non ce n’è una sola"
  
@@ -22,18 +24,21 @@ Motivazione: Rendere noti alcuni nomi e alcune storie di donne che hanno contrib
 ## Leonardo Errati – MSc Cryptography and Codes - *"Hamming: l’uomo che ha sconfitto gli errori"*
  
 *Partendo dalla storia di un giorno andato storto per Richard Hamming, capiremo come creare un sistema di correzione errori. La teoria dei codici ci insegnerà come sia possibile far fiorire matematicamente un argomento che sembra rasentare la magia. Noteremo poi alcuni limiti, ma anche applicazioni concrete dal mondo reale. Unico requisito: capire ed apprezzare x+y=1.*
-*Motivazione: Mostrare come costruire una struttura matematica sopra un problema. Il codice [7,4]-Hamming si presta perfettamente, avendo sia una spiegazione “intuitiva” (insiemi) che una spiegazione “matematica” (equazioni). Apprezzare come la matematica permetta di generalizzare un problema che a primo acchito sembra solo una curiosa coincidenza. Capire come la matematica sia in realtà di grande interesse nel mondo reale.*
+
+Motivazione: Mostrare come costruire una struttura matematica sopra un problema. Il codice [7,4]-Hamming si presta perfettamente, avendo sia una spiegazione “intuitiva” (insiemi) che una spiegazione “matematica” (equazioni). Apprezzare come la matematica permetta di generalizzare un problema che a primo acchito sembra solo una curiosa coincidenza. Capire come la matematica sia in realtà di grande interesse nel mondo reale.
  
 
 ## Iris Mangiapane – MSc Aadvanced Mathematics - *"Il dilemma del prigioniero"*
  
 *Il dilemma del prigioniero è il più tradizionale esempio utilizzato per introdurre la teoria dei giochi e il concetto di equilibrio di Nash. La teoria dei giochi è una branca della matematica che si occupa di studiare problemi in cui più individui prendono delle decisioni, le cui conseguenze non dipendono solo dalle scelte del singolo ma anche dalle scelte degli altri. Queste ultime, nella maggior parte dei casi, non possono essere conosciute in anticipo: come agire in condizioni di incertezza per massimizzare il proprio guadagno e minimizzare la propria perdita?*
-*Motivazione: Introdurre i ragazzi a una branca della matematica interdisciplinare attraverso dei semplici problemi. Alleggerendo i concetti matematici tramite lo storytelling, si intende dare un’idea di che applicazioni abbia questa teoria.*
+
+Motivazione: Introdurre i ragazzi a una branca della matematica interdisciplinare attraverso dei semplici problemi. Alleggerendo i concetti matematici tramite lo storytelling, si intende dare un’idea di che applicazioni abbia questa teoria.
  
 
 ## Leonardo Tovaglia ¬– MSc Statistics & Mathematics for Life - *"Lotka Volterra e altri modelli simili"*
  
 *Nei seguenti minuti si vuole spiegare come l'analisi matematica possa elaborare modelli utili alla scienza, e non solo alla fisica, in particolare modelli che cercano di descrivere (anche se in modo approssimato e non esatto) fenomeno quali epidemie e crescita di popolazioni. In particolare, il modello di Lotka Volterra per la variazione delle popolazioni di prede e predatori sarà centrale nell'esposizione.*
-*Motivazione: si vuole mostrare come la matematica, comunque sempre esatta e formidabile a che a livello teorico, possa avere anche un utilizzo pratico che permette, anche se non sempre di descrivere in modo preciso la realtà, perlomeno di fare previsioni, più o meno accurate.*
+
+Motivazione: si vuole mostrare come la matematica, comunque sempre esatta e formidabile a che a livello teorico, possa avere anche un utilizzo pratico che permette, anche se non sempre di descrivere in modo preciso la realtà, perlomeno di fare previsioni, più o meno accurate.
 
 
