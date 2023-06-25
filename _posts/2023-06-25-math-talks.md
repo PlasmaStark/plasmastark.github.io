@@ -10,7 +10,14 @@ comments: true
 
 Ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. 
 
-L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso.
+<figure>
+  <img src="[https://user-images.githubusercontent.com/64229723/193793878-2aea1fb9-cc82-40c9-81a0-1f7a0f91486b.jpg](https://github.com/PlasmaStark/plasmastark.github.io/assets/64229723/ee2d5243-8a59-4228-a572-7cae0250c16b)" alt="poster2" class="center" width="400"/>
+  <figcaption><center><em>pomeriggio della presentazione ufficiale</em></center></figcaption>
+</figure>
+
+L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso. 
+
+Di seguito, in ordine alfabetico, sintesi e motivazione degli interventi. La parola agli speaker!
 
 ----------
 
