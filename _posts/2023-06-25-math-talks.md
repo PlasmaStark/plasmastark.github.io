@@ -12,7 +12,7 @@ Ho avuto il piacere di organizzare una serata di divulgazione matematica al Coll
 
 <figure>
   <img src="https://github.com/PlasmaStark/plasmastark.github.io/assets/64229723/ee2d5243-8a59-4228-a572-7cae0250c16b" alt="poster2" class="center" width="400"/>
-  <figcaption><center><em>pomeriggio della presentazione ufficiale</em></center></figcaption>
+  <figcaption><center><em>Locandina della serata.</em></center></figcaption>
 </figure>
 
 L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso. 
