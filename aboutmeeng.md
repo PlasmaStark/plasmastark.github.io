@@ -18,10 +18,8 @@ I generate lots of plans and sometimes some of them even work. After all, there 
 
 Don't listen to those nasty rapscallions going around telling I am a supervillain, lies and deceptions! What, that villain-ish portrait? It's not mine, how did it even get there?
 
-### personal CV in English (august 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
+### personal CV in English (october 2023): [PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/12927004/cv.eng.pdf)
 
-
-### Europass CV in Italian (ottobre 2022): [PDF file](https://github.com/PlasmaStark/plasmastark.github.io/files/9728746/CV.Europass.Leonardo.Errati.pdf)
 
 
 
