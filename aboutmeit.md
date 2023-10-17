@@ -15,8 +15,5 @@ Formulo un mare di piani ed alcuni a volte funzionano. D'altronde ci sono troppe
 
 Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel ritratto da supercattivo? Non è mio, deve essere finito lì per caso...
 
-### CV personale in inglese (luglio 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9717012/CV.personale.pdf)
-
-
-### CV formato Europass in Italiano (ottobre 2022): [file PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/9728746/CV.Europass.Leonardo.Errati.pdf)
+### cv personale in inglese (october 2023): [PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/12927004/cv.eng.pdf)
 
