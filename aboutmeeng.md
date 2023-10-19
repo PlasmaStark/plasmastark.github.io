@@ -20,7 +20,7 @@ I generate lots of plans and sometimes some of them even work. After all, there 
 
 Don't listen to those nasty rapscallions going around telling I am a supervillain, lies and deceptions! What, that villain-ish portrait? It's not mine, how did it even get on this page?
 
-### CV (october 2023): [PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/12927004/cv.eng.pdf)
+#### CV (october 2023): [PDF](https://github.com/PlasmaStark/plasmastark.github.io/files/12927004/cv.eng.pdf)
 
 ----------
 
@@ -28,7 +28,7 @@ Don't listen to those nasty rapscallions going around telling I am a supervillai
 
 Some projects I worked on for my MSc.
 
-### Implementation of various primitives of cryptographical interest.
+#### Implementation of various primitives of cryptographical interest.
 
 **From:** September 2021
 
@@ -51,7 +51,7 @@ Of course I cannot publicly show these, as it would invalidate all MAGMA project
 
 We also had two large group projects consisting in the implementation and detailed analysis of other similiar algorithms. And of course, I cannot publicly show these either!
 
-### Creation of a factorisation algorithm via Pell curves.
+#### Creation of a factorisation algorithm via Pell curves.
 
 **From:** March 2022
 
@@ -63,7 +63,7 @@ We also had two large group projects consisting in the implementation and detail
 
 This is similiar to what we do with Elliptic Curves, but it proved to be way more difficoult: EC have an interesting operation in their group structure we can exploit as an exit point of the algorithm, PC do not. The experiment proved partially insuccessful, it could be possible to get something out of it.
 
-## Creation of a factorisation algorithm via recurrent sequences of order three
+#### Creation of a factorisation algorithm via recurrent sequences of order three
 
 **From:** June 2023
 
@@ -75,7 +75,7 @@ This is similiar to what we do with Elliptic Curves, but it proved to be way mor
 
 The attempt was partially successful. Parameters needed to be brute-forced in part since there is a lack of general theory on this (e.g. we would have needed a generalisation of the Jacobi Symbol for cubic residuals). While some parameters provided an interesting algorithm, the test still performed badly with respect to order two sequences: the theory is too complex and the setup of the algorithm is inefficient if compared to them.
 
-### Simple chat in Java
+#### Simple chat in Java
 
 **From:** December 2022
 
@@ -91,7 +91,7 @@ The attempt was partially successful. Parameters needed to be brute-forced in pa
 - Other members worked on the Java classes needed to put all together and achieve a working project.
 - I wrote some bash commands to allow a quick setup of the project.
 
-### Watermarking: embedding and attacks
+#### Watermarking: embedding and attacks
 
 **From:** October 2022
 
@@ -108,7 +108,7 @@ The attempt was partially successful. Parameters needed to be brute-forced in pa
 
  We achieved a [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) of around 60 on all broken watermarks, and broke all of them, winning the competition.
 
-### Implementation, study and presentation of Quadratic Sieve
+#### Implementation, study and presentation of Quadratic Sieve
 
 **From:** September 2021
 
@@ -118,7 +118,7 @@ The attempt was partially successful. Parameters needed to be brute-forced in pa
 
 **Description:** As part of the _Excellence Path_ initiative, I held a presentation on Quadratic Sieve which can be found on this website. I implemented it with MAGMA and studied its complexity, which was of course already well known in literature. 
 
-### Miscellanea 
+#### Miscellanea 
 
 Some other projects I worked on by myself and for no reason at all.
 - ISBN correction and detection algorithm (Python)
