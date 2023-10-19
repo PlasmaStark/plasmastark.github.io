@@ -62,7 +62,7 @@ Per questo libro ho preso un e-book.
 Da Febbraio ad ora ho letto i cicli di Asimov: ciclo dell'impero, ciclo della fondazione. Ne manca uno, giusto? Dov'è il ciclo dei robot? La Mondadori ha detto nel 2020 che l'avrebbe pubblicato ed ha mostrato la grafica [(link)](https://www.facebook.com/oscarmondadorivault/posts/lettori-di-asimov-per-celebrare-il-centenario-della-nascita-dellimmenso-isaac-as/2694808057412598/?locale=it_IT). Dov'è ora il ciclo dei robot?
 
 ### 19 aprile 2023
-I libri del ciclo dei robot non esistono, l'ultima versione è irreperibile e di diversi lustri fa. La Mondadori pubblica di tutto ed ha pure ripubblicato Asimov: quasi tutto di lui, anche libri minori, ma non il ciclo dei robot. 
+I libri del ciclo dei robot non esistono, l'ultima versione è irreperibile e di diversi lustri fa. La Mondadori pubblica di tutto ed ha pure ripubblicato Asimov: quasi tutto di lui, anche libri minori, ma non il ciclo dei robot.  Trovo un po' assurda questa cosa.
 
 Ho deciso di **dichiarare un embargo generale** su tutti i prodotti della Mondadori: non ne comprerò altri fino a quando non vedrò il ciclo dei robot nella mia libreria. Ho abbastanza libri in arretrato per potermelo permettere.
 
