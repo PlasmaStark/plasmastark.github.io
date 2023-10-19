@@ -4,12 +4,6 @@ title: About me
 subtitle: general information
 ---
 
-Summary:
-
-[1. Personal information](https://github.com/PlasmaStark/plasmastark.github.io/edit/master/aboutmeeng.md#personal-information)
-
-[2. Projects](https://github.com/PlasmaStark/plasmastark.github.io/edit/master/aboutmeeng.md#projects)
-
 # Personal information
 
 My name is Leonardo, I study mathematics at University of Trento and I think I will enjoy speaking about maths in the future - although I have no idea how. 
@@ -70,19 +64,6 @@ We also had two large group projects consisting in the implementation and detail
 This is similiar to what we do with Elliptic Curves, but it proved to be way more difficoult: EC have an interesting operation in their group structure we can exploit as an exit point of the algorithm, PC do not. The experiment proved partially insuccessful, it could be possible to get something out of it.
 
 ## Creation of a factorisation algorithm via recurrent sequences of order three
-
-**From:** June 2023
-
-**To:** July 2023
-
-**Language:** Python
-
-**Description:** For our _Advanced Number Theory_ course, we had to find some interesting application of something we studied. After my attempt at working with Pell Curves, I tried getting something out of recurrent sequences. We already have excellent algorithms and theorems for order two sequences. 
-
-The attempt was partially successful. Parameters needed to be brute-forced in part since there is a lack of general theory on this (e.g. we would have needed a generalisation of the Jacobi Symbol for cubic residuals). While some parameters provided an interesting algorithm, the test still performed badly with respect to order two sequences: the theory is too complex and the setup of the algorithm is inefficient if compared to them.
-
-
-### Creation of a factorisation algorithm via recurrent sequences of order three
 
 **From:** June 2023
 
