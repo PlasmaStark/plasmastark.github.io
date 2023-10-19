@@ -24,8 +24,9 @@ Se vi dicono che sono un supercattivo non ascoltate, tutte menzogne! Cosa, quel 
 
 Alcuni progetti su cui ho lavorato per la mia laurea magistrale.
 
-#### Implementazione di varie primitive di interesse crittografico.
 
+
+#### Implementazione di varie primitive di interesse crittografico.
 **Da:** settembre 2021
 
 **Fino al:** giugno 2022
@@ -47,8 +48,10 @@ Ovviamente non posso mostrarli pubblicamente, invaliderebbe tutti i progetti MAG
 
 Abbiamo avuto anche due progetti di gruppo consistenti nell'implementazione e nell'analisi dettagliata di altri algoritmi simili. E ovviamente non posso mostrare nemmeno questi pubblicamente!
 
-#### Creazione di un algoritmo di fattorizzazione tramite curve di Pell.
 
+
+
+#### Creazione di un algoritmo di fattorizzazione tramite curve di Pell.
 **Da:** marzo 2022
 
 **Fino al:** giugno 2023
@@ -59,8 +62,10 @@ Abbiamo avuto anche due progetti di gruppo consistenti nell'implementazione e ne
 
 Questo è simile a quello che facciamo con le Curve Ellittiche (EC), ma si è rivelato molto più difficile: le EC hanno un'operazione interessante nella loro struttura di gruppo che possiamo sfruttare come punto di uscita dell'algoritmo, le PC no. L'esperimento si è rivelato parzialmente infruttuoso, ma si potrebbe ricavarne qualcosa.
 
-#### Creazione di un algoritmo di fattorizzazione tramite sequenze ricorrenti di ordine tre
 
+
+
+#### Creazione di un algoritmo di fattorizzazione tramite sequenze ricorrenti di ordine tre.
 **Da:** giugno 2023
 
 **Fino al:** luglio 2023
@@ -72,8 +77,9 @@ Questo è simile a quello che facciamo con le Curve Ellittiche (EC), ma si è ri
 Il tentativo è riuscito parzialmente. Ho dovuto in parte cercare con brute-force i parametri poiché manca una teoria generale al riguardo (ad esempio avremmo avuto bisogno di una generalizzazione del simbolo di Jacobi per i residui cubici). Sebbene alcuni parametri abbiano fornito un algoritmo interessante, il test ha comunque funzionato male rispetto alle sequenze di ordine due: la teoria è troppo complessa e la fase di setup dell'algoritmo è inefficiente a confronto.
 
 
-#### Chat semplice in Java
 
+
+#### Chat semplice in Java.
 **Da:** dicembre 2022
 
 **Fino al:** dicembre 2022
@@ -88,8 +94,10 @@ Il tentativo è riuscito parzialmente. Ho dovuto in parte cercare con brute-forc
 - Altri membri hanno lavorato sulle classi Java necessarie per mettere insieme il tutto e realizzare un progetto funzionante.
 - Ho scritto alcuni comandi bash per consentire una rapida configurazione del progetto.
 
-#### Watermarking: embedding ed attacchi
 
+
+
+#### Watermarking: embedding ed attacchi.
 **Da:** ottobre 2022
 
 **Fino al:** novembre 2022
@@ -105,8 +113,10 @@ Il tentativo è riuscito parzialmente. Ho dovuto in parte cercare con brute-forc
 
   Abbiamo raggiunto un [PSNR](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) di circa 60 su tutti i watermark rotti e li abbiamo rotti tutti, vincendo la competizione.
 
-#### Implementazione, studio e presentazione di Quadratic Sieve
 
+
+
+#### Implementazione, studio e presentazione di Quadratic Sieve.
 **Da:** settembre 2021
 
 **Fino al:** ottobre 2021
@@ -115,8 +125,10 @@ Il tentativo è riuscito parzialmente. Ho dovuto in parte cercare con brute-forc
 
 **Descrizione:** Nell'ambito dell'iniziativa _Percorso dell'Eccellenza_, ho tenuto una presentazione su Quadratic Sieve che può essere trovata su questo sito. L'ho implementato con MAGMA e ne ho studiato la complessità, che ovviamente era già ben nota in letteratura.
 
-#### Miscellanea
 
+
+
+#### Miscellanea.
 Alcuni altri progetti su cui ho lavorato da solo e senza alcun motivo.
 - Algoritmo di correzione e rilevamento codici ISBN (Python)
 - Tema Beamer ufficiale UniTN per il Dipartimento di Matematica
