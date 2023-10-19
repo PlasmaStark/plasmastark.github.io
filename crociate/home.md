@@ -66,7 +66,7 @@ Ho deciso di **dichiarare un embargo generale** su tutti i prodotti della Mondad
 
 <block>
   <center><em>
-  Stato crociata: embargo dichiarato
+  Stato crociata: empasse
   </em></center>
  </block>
 
