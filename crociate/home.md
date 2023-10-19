@@ -44,10 +44,10 @@ Molti negozi di libri usati non hanno notizie del libro. Ne ho ancora altri da v
 ### 15 ottobre 2022
 Ho visitato tutta la dozzina di librerie del centro. Nessuna lo ha. Mi vedo costretto ad utilizzare i mezzi pesanti: [arretrati dei periodici Mondadori](https://arretrati.mondadori.it/privati/fascicolo-n-20210222-di-urania-collezione.html).
 
-### 17 ottobre 
+### 17 ottobre 2022
 Il libro cartaceo era in allegato al periodico Urania Collezione (numero 222 di luglio 2021). Purtroppo il servizio arretrati mi ha confermato che sono totalmente esauriti. La Mondadori ha i diritti per Asimov in Italia, eppure non li usa. Affascinante. 
 
-### 18 ottobre
+### 18 ottobre 2022
 Giusto ieri mi sono arreso ed ho ordinato una versione inglese. Ironicamente, è arrivata in meno di 24h. Purtroppo è di fattura poco soddisfacente, ma credo che per ora dovrò accontentarmi. Devo arrendermi al poco interesse della Mondadori.
 
 <block>
@@ -55,4 +55,20 @@ Giusto ieri mi sono arreso ed ho ordinato una versione inglese. Ironicamente, è
   Stato crociata: vittoria di Pirro
   </em></center>
  </block>
+
+### 14 aprile 2023
+Da Febbraio ad ora ho letto i cicli di Asimov: ciclo dell'impero, ciclo della fondazione. Ne manca uno, giusto? Dov'è il ciclo dei robot? La Mondadori ha detto nel 2020 che l'avrebbe pubblicato ed ha mostrato la grafica [(link)](https://www.facebook.com/oscarmondadorivault/posts/lettori-di-asimov-per-celebrare-il-centenario-della-nascita-dellimmenso-isaac-as/2694808057412598/?locale=it_IT). Dov'è ora il ciclo dei robot?
+
+### 19 aprile 2023
+I libri del ciclo dei robot non esistono, l'ultima versione è irreperibile e di diversi lustri fa. La Mondadori pubblica di tutto ed ha pure ripubblicato Asimov: quasi tutto di lui, anche libri minori, ma non il ciclo dei robot. 
+
+Ho deciso di **dichiarare un embargo generale** su tutti i prodotti della Mondadori: non ne comprerò altri fino a quando non vedrò il ciclo dei robot nella mia libreria. Ho abbastanza libri in arretrato per potermelo permettere.
+
+<block>
+  <center><em>
+  Stato crociata: embargo dichiarato
+  </em></center>
+ </block>
+
+
 
