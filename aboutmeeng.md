@@ -6,7 +6,7 @@ subtitle: general information
 
 # Personal information
 
-My name is Leonardo, I study mathematics at University of Trento and I think I will enjoy speaking about maths in the future - although I have no idea how. 
+My name is Leonardo, I' studying mathematics at University of Trento and I think I will enjoy speaking about maths in the future - although I have no idea how. 
 One chance could be [my youtube channel](https://www.youtube.com/channel/UCO1l67JZBNiNEA2cb8M1fbQ), or maybe writing books, who knows.
 
 My apologies if the content of this website is mostly in Italian, but it would be quite the hustle to translate it all! I could do it some time in the future though.
