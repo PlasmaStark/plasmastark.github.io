@@ -39,7 +39,7 @@ Motivazione: Mostrare come costruire una struttura matematica sopra un problema.
 
  
 
-## Iris Mangiapane (MSc Aadvanced Mathematics), *"Il dilemma del prigioniero"*
+## Iris Mangiapane (MSc Advanced Mathematics), *"Il dilemma del prigioniero"*
  
 *Il dilemma del prigioniero è il più tradizionale esempio utilizzato per introdurre la teoria dei giochi e il concetto di equilibrio di Nash. La teoria dei giochi è una branca della matematica che si occupa di studiare problemi in cui più individui prendono delle decisioni, le cui conseguenze non dipendono solo dalle scelte del singolo ma anche dalle scelte degli altri. Queste ultime, nella maggior parte dei casi, non possono essere conosciute in anticipo: come agire in condizioni di incertezza per massimizzare il proprio guadagno e minimizzare la propria perdita?*
 
