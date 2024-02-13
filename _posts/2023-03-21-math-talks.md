@@ -15,7 +15,7 @@ Ho avuto il piacere di organizzare una serata di divulgazione matematica al Coll
   <figcaption><center><em>Locandina della serata.</em></center></figcaption>
 </figure>
 
-L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche gli studenti di matematica! Ho chiesto una mano ad altri studenti di matematica, facendo in modo che le aree di interesse fossero più ampie possibile per ampliare la panoramica del discorso. 
+L'idea era mostrare cosa si studia effettivamente nella matematica. Molti se lo chiedono, anche noi! Ho chiesto una mano ad altri studenti, facendo in modo che le aree di interesse fossero più varie possibile per ampliare la panoramica del discorso. 
 
 Di seguito, in ordine alfabetico, sintesi e motivazione degli interventi.
 La parola agli speaker!
