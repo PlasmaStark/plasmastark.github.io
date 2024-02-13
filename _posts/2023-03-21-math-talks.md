@@ -8,7 +8,7 @@ tags: [divulgativo, conferenza]
 comments: true
 ---
 
-Ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. 
+Siccome avevo poco da fare, ho avuto il piacere di organizzare una serata di divulgazione matematica al Collegio Arcivescovile di Trento, che ovviamente ringrazio per l'opportunità e la fiducia. 
 
 <figure>
   <img src="https://github.com/PlasmaStark/plasmastark.github.io/assets/64229723/ee2d5243-8a59-4228-a572-7cae0250c16b" alt="poster2" class="center" width="400"/>
