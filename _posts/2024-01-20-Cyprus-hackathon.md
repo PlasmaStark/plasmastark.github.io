@@ -16,8 +16,8 @@ Ci siamo alleati con due simpatici ragazzi dal Lussemburgo dato che i nostri pro
   <figcaption><center><em>Il nostro team. Crediti ad XRPL Commons & UNic.</em></center></figcaption>
 </figure>
 
-Dal titolo avrete capito che abbiamo vinto. Non mi dilungherò troppo, l'università ha già scritto vari articoli a riguardo. 
-Sembra sempre molto strano sentire parlare così tanto per una cosa che a me sembra così piccola, e non so mai bene come rispondere. Quindi lascerò parlare l'università:
+Dal titolo avrete capito che abbiamo vinto. Non mi dilungherò troppo, hanno già scritto vari articoli a riguardo. 
+Trovo sempre molto strano sentire parlare tanto di una cosa che a me sembra così piccola, e non so mai bene come rispondere. Quindi lascerò parlare l'università, che in realtà sta usando le nostre parole.
 - [UniTrento MAG, giornale di ateneo](https://webmagazine.unitn.it/internazionale/119427/unitrento-vince-a-cipro-la-sfida-della-blockchain)
 - [WebMagazine del Dipartimento di Matmatica](https://webmagazine.unitn.it/news/dmath/119304/tre-studenti-del-dipartimento-di-matematica-vincono-lhackaton-di-cipro)
 
